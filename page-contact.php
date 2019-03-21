@@ -28,7 +28,7 @@
 <!-- CONTACT INFO -->
 
   <div class="row container">
-    <div class="twelve columns">
+    <div class="four columns">
       <?php dynamic_sidebar('bottom-full-contact'); ?>
     </div>
   </div>
