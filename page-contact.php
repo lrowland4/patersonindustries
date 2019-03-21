@@ -8,7 +8,7 @@
       <?php dynamic_sidebar('contact-text'); ?>
     </div>
   <div class="row">
-    <div class="twelve columns">
+    <div class="four columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
       <div class="container">
@@ -28,7 +28,7 @@
 <!-- CONTACT INFO -->
 
   <div class="row container">
-    <div class="four columns">
+    <div class="twelve columns">
       <?php dynamic_sidebar('bottom-full-contact'); ?>
     </div>
   </div>
