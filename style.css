@@ -1,0 +1,296 @@
+/*
+Theme Name: PI Custom Theme
+Theme URI:
+Author: Jessica Small
+Author URI:
+
+Description: This theme was designed for Paterson Industries Ltd. by Glacier Creative from the University of Florida.
+
+Version: 1.0
+License: Open
+Text Domain: PI Custom Theme
+*/
+
+/* COLORS
+$darkgreen: #02573e;
+$cream: #eeeee8; //white
+$lightgreen: #afc9c2;
+$gray: #bfc8c6;
+$darkgray: #252e35;
+*/
+
+/* FONTS
+font-family: 'Anton', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+@import "css/normalize.css";
+@import "css/skeleton.css";
+
+html {
+  background-color: #02573e;
+}
+
+body {
+  background-color: #bfc8c6;
+  height: 100%;
+  -webkit-appearance: none;
+}
+
+/*------------------------ HEADER ------------------------*/
+.header {
+  background-color: rgba(37, 46, 53, 0.5);
+  height: 50px;
+  padding: 5px 25px;
+}
+
+.header:hover {
+  background-color: rgba(37, 46, 53, 1);
+}
+
+header ul#menu-header-menu {
+  text-align: right;
+  padding-top: 10px;
+}
+
+header ul#menu-header-menu li {
+  font-family: 'Roboto', sans-serif;
+  display: inline;
+  padding-left: 10px;
+  margin-left: : 10px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 35px;
+}
+
+ul {
+    list-style: none;
+}
+
+/*------------------------ HERO ------------------------*/
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 15px;
+}
+
+/*------------------------ FONTS ------------------------*/
+h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
+  color: #252e35;
+  margin-bottom: 0;
+  -webkit-appearance: none;
+}
+
+h1 {
+  font-size: 85px;
+  font-weight: 700;
+  width: 800px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 26px;
+  color: #252e35;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #252e35;
+  font-size: 3.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+p a {
+  color: #02573e;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+/*------------------------ ALIGNMENT ------------------------*/
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+/*------------------------ IMAGE STYLING ------------------------*/
+.icon { /* LOGO STYLING FOR HEADER */
+  max-height: 45px;
+}
+
+
+/*------------------------ NEWS / BLOG ------------------------*/
+.post-featured img {
+  width: 100%;
+  height: auto;
+}
+
+.one-half.column.posts {
+    margin-left: 0;
+    padding: 25px;
+}
+
+input#s {
+    width: 70%;
+}
+
+.blog-search {
+    padding-left: 5%;
+}
+
+.widget-title {
+  margin-bottom: 0px;
+}
+
+/*------------------------ BUTTON STYLING ------------------------*/
+.button {
+  background-color: #252e35;
+  border: none;
+  border-radius: 0;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+}
+
+.button:hover {
+  background-color: #02573e;
+}
+
+.cta-buttons-services {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.cta-buttons-about {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+/*------------------------ CONTACT FORM ------------------------*/
+
+input.wpcf7-form-control.wpcf7-submit {
+  background-color: #252e35;
+  border: none;
+  border-radius: 0;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 100%;
+}
+
+input.wpcf7-form-control.wpcf7-text {
+    width: 100%;
+}
+
+textarea.wpcf7-form-control.wpcf7-textarea {
+    width: 100%;
+}
+
+/*------------------------ RANDOM ------------------------*/
+
+.nine.columns.single-content {
+    padding-right: 15px;
+}
+
+pre, blockquote, dl, figure, table, p, ul, ol, form {
+    margin-bottom: 5px;
+}
+
+/*------------------------ FOOTER ------------------------*/
+
+.footer ul#menu-footer-menu li {
+  list-style: none;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 3px;
+  margin: 10px;
+  color: #1d5400;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.footer {
+  background: #252e35;
+}
+
+.footer a {
+  color: white;
+  font-weight: 300;
+}
+
+.footer a:hover {
+  color: #afc9c2;
+  text-decoration: none;
+}
+
+.footer p {
+  color: white;
+}
+
+.copyright {
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+/*------------------------ MEDIA QUERIES ------------------------*/
+
+/* I HAVEN'T BEEN DILIGENT ABOUT CODING MOBILE FIRST, BUT SINCE THIS IS USING SKELETON, IT SHOULD ALL WRAP.. WILL TEST AND ADJUST MORE FOR PHASE 2! */
+@media only screen and (min-width: 800px) {
+
+  p {
+    font-size: 1.7rem;
+  }
+
+  header ul#menu-header-menu li {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  h1 {
+    font-size: 50px;
+    font-weight: 700;
+  }
+
+  label {
+    font-size: 35px;
+  }
+}
