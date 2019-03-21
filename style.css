@@ -222,6 +222,10 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     width: 100%;
 }
 
+.hero-image-widget-contact{
+  margin-top: -25px;
+}
+
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {
