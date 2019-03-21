@@ -3,7 +3,6 @@
 <?php get_header(); ?>
 
 <div>
-<h1>HELLO TEST</h1>
 <!-- HERO -->
   <div class="row">
     <div class="twelve columns">
