@@ -4,7 +4,7 @@
 
 <div>
 <div class="row">
-    <div class="twelve columns">  
+    <div class="one-half columns">  
       <?php dynamic_sidebar('contact-text'); ?>
     </div>
   <div class="row">
