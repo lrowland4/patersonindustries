@@ -3,6 +3,10 @@
 <?php get_header(); ?>
 
 <div>
+<div class="row">
+    <div class="twelve columns">  
+      <?php dynamic_sidebar('contact-text'); ?>
+    </div>
   <div class="row">
     <div class="twelve columns">
       <div class="hero">
