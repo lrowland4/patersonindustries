@@ -78,7 +78,7 @@ ul {
 /*------------------------ FONTS ------------------------*/
 h1, h2, h3 {
   font-family: 'Anton', sans-serif;
-  color: #252e35;
+  color: red;
   margin-bottom: 0;
   -webkit-appearance: none;
 }
