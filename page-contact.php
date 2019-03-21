@@ -6,13 +6,19 @@
   <div class="row">
     <div class="twelve columns">
       <div class="hero">
-      
         <?php dynamic_sidebar('hero-contact'); ?>
-  <div class="row">
-    <div class="four columns">  
-      <?php dynamic_sidebar('contact-text'); ?>
-    </div>
-          
+      </div>
+    </div>    
+   </div>
+   
+   <div class="container">
+     <div class="row">
+      <div class="fout columns">  
+        <?php dynamic_sidebar('contact-text'); ?>
+      </div> 
+      </div>
+
+
       <div class="container">
       <?php
         if(have_posts()){
@@ -23,8 +29,6 @@
         }
       ?>
     </div>
-    </div>
-  </div>
 </div>
 
 <!-- CONTACT INFO -->
