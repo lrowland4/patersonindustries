@@ -28,7 +28,7 @@ font-family: 'Roboto', sans-serif;
 @import "css/skeleton.css";
 
 html {
-  background-color: #02573e;
+  background-color: red;
 }
 
 body {
