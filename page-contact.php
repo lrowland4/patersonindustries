@@ -11,7 +11,7 @@
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
-      <div class=" four container">
+      <div class="container">
       <?php
         if(have_posts()){
           while(have_posts()){
