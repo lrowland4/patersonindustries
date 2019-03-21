@@ -8,7 +8,14 @@
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
       <div class="container">
-
+      <?php
+        if(have_posts()){
+          while(have_posts()){
+            the_post();?>
+            <?php the_content();
+          }
+        }
+      ?>
     </div>
     </div>
   </div>
