@@ -82,6 +82,16 @@
       'after_title'   =>  '</h4>'
     ));
 
+    // Contact page Text
+    register_sidebar( array(
+      'name'          => ('Contact Text'),
+      'id'            => 'contact-text',
+      'description'   => 'Text on contact page.',
+      'before_widget' => '<div class="bottom-full">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
 
     // WIDGET AREA on Contact page
     register_sidebar( array(
