@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  background-color: red;
+  background-color: #bfc8c6;
   height: 100%;
   -webkit-appearance: none;
 }
@@ -78,7 +78,7 @@ ul {
 /*------------------------ FONTS ------------------------*/
 h1, h2, h3 {
   font-family: 'Anton', sans-serif;
-  color: #252e35;
+  color: #ffffff;
   margin-bottom: 0;
   -webkit-appearance: none;
 }
