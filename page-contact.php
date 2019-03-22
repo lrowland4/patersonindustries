@@ -13,7 +13,7 @@
    
    <div class="container">
      <div class="row">
-      <div class="four columns">  
+      <div class="six columns">  
         <?php dynamic_sidebar('contact-text'); ?>
       </div> 
       </div>
