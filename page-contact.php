@@ -13,7 +13,7 @@
    
    <div class="container">
      <div class="row">
-      <div class="fout columns">  
+      <div class="four columns">  
         <?php dynamic_sidebar('contact-text'); ?>
       </div> 
       </div>
@@ -33,10 +33,6 @@
 
 <!-- CONTACT INFO -->
 
-  <div class="row container">
-    <div class="twelve columns">
-      <?php dynamic_sidebar('bottom-full-contact'); ?>
-    </div>
-  </div>
+
 
 <?php get_footer(); ?>
