@@ -226,6 +226,11 @@ img.image.wp-image-365.attachment-full.size-full{
   margin-top: -250px;
 }
 
+form{
+  padding: 25px;
+  background-color: #02573e;
+}
+
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {
