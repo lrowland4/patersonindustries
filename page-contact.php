@@ -19,7 +19,7 @@
       </div>
 
 
-      <div class="container">
+      <div class="container four columns">
       <?php
         if(have_posts()){
           while(have_posts()){
@@ -34,3 +34,10 @@
 <!-- CONTACT INFO -->
 
  
+ <div class="row container">
+    <div class="twelve columns">
+      <?php dynamic_sidebar('bottom-full-contact'); ?>
+    </div>
+  </div>
+
+<?php get_footer(); ?>
