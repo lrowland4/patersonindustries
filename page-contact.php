@@ -13,13 +13,13 @@
    
    <div class="container">
      <div class="row">
-      <div class="four columns">  
+      <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
       </div> 
       </div>
 
 
-      <div class="container six columns">
+      <div class="container four columns formms">
       <?php
         if(have_posts()){
           while(have_posts()){

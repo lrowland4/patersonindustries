@@ -226,9 +226,9 @@ img.image.wp-image-365.attachment-full.size-full{
   margin-top: -250px;
 }
 
-form{
-  padding: 45px;
-  background-color: red;
+.formms @media (min-width: 550px)
+.column, .columns {
+    margin-left: 0%;
 }
 
 /*------------------------ RANDOM ------------------------*/
