@@ -33,6 +33,4 @@
 
 <!-- CONTACT INFO -->
 
-
-
-<?php get_footer(); ?>
+ 
