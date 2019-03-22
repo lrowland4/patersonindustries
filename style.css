@@ -226,7 +226,7 @@ img.image.wp-image-365.attachment-full.size-full{
   margin-top: -250px;
 }
 
-.container.four.columns.formms{
+div.container.four.columns.formms{
   background-color:red;
   padding: 40px;
   margin-left: 70%;
@@ -235,10 +235,6 @@ img.image.wp-image-365.attachment-full.size-full{
 
 }
 
-form.wpcf7-form {
-    background-color: red;
-    padding: 40px;
-}
 
 /*------------------------ RANDOM ------------------------*/
 
