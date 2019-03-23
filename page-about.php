@@ -32,6 +32,7 @@
   <div class="row">
     <div class="five columns">
       <!-- image -->
+      <p>placeholder, safety image</p>
     </div>
     <div class="seven columns">
       <!-- text, LINK TO "SAFETY" CATEGORY OF BLOG -->
@@ -67,7 +68,7 @@
       <!-- image -->
     </div>
     <div class="seven columns">
-      <!-- text, LINK TO "COMMUNITY" CATEGORY OF BLOG -->
+      <!-- text, LINK TO "COMMUNITY" CATEGORY OF BLOG: http://www.jessica-small.com/PatersonIndustries/category/community/ -->
     </div>
   </div>
 

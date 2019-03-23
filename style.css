@@ -264,6 +264,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .footer {
   background: #252e35;
+  padding-top: 5px;
 }
 
 .footer a {
@@ -281,7 +282,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 .copyright {
-  background-color: black;
+  background-color: #02573e;
   color: white;
   width: 100%;
   margin: 0;
