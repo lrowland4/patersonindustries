@@ -15,7 +15,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row">
+  <div class="row lightpipe">
       <div class="twelve columns">
         <?php
             if(have_posts()){
@@ -40,14 +40,14 @@
   </div>
 
   <!-- MISSION STATEMENT -->
-  <div class="row">
+  <div class="row darkhex">
     <div class="twelve columns">
       <!-- mission statement -->
     </div>
   </div>
 
   <!-- VALUES -->
-  <div class="row">
+  <div class="row lightpipe">
     <div class="three columns">
       <!-- icon, text -->
     </div>
