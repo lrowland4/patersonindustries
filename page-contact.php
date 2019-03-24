@@ -3,7 +3,6 @@
 <?php get_header(); ?>
 
 <div>
-<h1 id="hellotest">HELLO TEST</h1>
   <div class="row">
     <div class="twelve columns">
       <div class="hero">
@@ -12,7 +11,7 @@
     </div>    
    </div>
    
-   <div class="container">
+   <div class="container text-contact">
      <div class="row">
       <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
