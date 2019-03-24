@@ -15,7 +15,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row lightpipe divheight">
+  <div class="row lightpipe">
       <div class="twelve columns about">
         <?php
             if(have_posts()){
