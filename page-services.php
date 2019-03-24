@@ -21,6 +21,7 @@
         }
       ?>
       </div>
+      <div><img src="images/services-01.png" alt="Paterson Industries Repair"></div>
       <div class="twelve columns">
         <?php dynamic_sidebar('cta-buttons-services'); ?>
       </div>
