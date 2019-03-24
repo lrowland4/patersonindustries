@@ -104,6 +104,39 @@
       'after_title'   =>  '</h4>'
     ));
 
+    //  Home page - Services Area 1
+    register_sidebar( array(
+      'name'          => ('Home - services 1'),
+      'id'            => 'home-page-services-1',
+      'description'   => 'Home page content - Services 1.',
+      'before_widget' => '<div class="home-page-services-1">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+    // Home page - Services Area 2
+    register_sidebar( array(
+      'name'          => ('Home - services 2'),
+      'id'            => 'home-page-services-2',
+      'description'   => 'Home page content - Services 2.',
+      'before_widget' => '<div class="home-page-services-2">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+     // Home page - Services Area 3
+    register_sidebar( array(
+      'name'          => ('Home - services 3'),
+      'id'            => 'home-page-services-3',
+      'description'   => 'Home page content - Services 3.',
+      'before_widget' => '<div class="home-page-services-3">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
     // ABOUT Page
     register_sidebar( array(
       'name'          => ('Content - About'),

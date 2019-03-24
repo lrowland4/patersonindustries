@@ -40,10 +40,19 @@
       </div>
     </div>
   </div>
-<!-- SERVICES SECTION -->
+<!-- SERVICES SECTION --> 
   <div class="row">
     <div class="one-third column">
-      <!-- services 1 -->
+      <h4>Services</h4>
+      <div class="home-page-services-1">
+        <?php dynamic_sidebar('home-page-services-1'); ?>
+      </div>
+      <div class="home-page-services-2">
+        <?php dynamic_sidebar('home-page-services-2'); ?>
+      </div>
+      <div class="home-page-services-3">
+        <?php dynamic_sidebar('home-page-services-3'); ?>
+      </div>
     </div>
 
     <div class="one-third column">
