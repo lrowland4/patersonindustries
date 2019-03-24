@@ -62,7 +62,7 @@
 <!-- SHORT CONTACT FORM SECTION -->
   <div class="row short-form">
     <div class="one-half column">
-      <p>HELLO</p>
+      <p>Contact Short Form</p>
       <!-- CTA text -->
     </div>
     <div class="one-half column">
@@ -70,7 +70,7 @@
     </div>
   </div>
 <!-- BLOG PREVIEW SECTION -->
-  <div class="row">
+  <div class="row .darkpipe">
     <div class="one-third column">
       <!-- POST 1 -->
     </div>
