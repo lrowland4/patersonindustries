@@ -21,9 +21,6 @@
         }
       ?>
       </div>
-      <div class="widget-title-service">
-        <?php dynamic_sidebar('service-image'); ?>
-      </div>
       <div class="twelve columns">
         <?php dynamic_sidebar('cta-buttons-services'); ?>
       </div>
