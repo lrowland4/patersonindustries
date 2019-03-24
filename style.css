@@ -308,6 +308,9 @@ h4.widget-title-contact-form{
     font-size: 2rem;
 }
 
+input.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: #ffffff;
+}
 
 
 
