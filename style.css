@@ -68,9 +68,11 @@ ul {
 }
 
 /*------------------------ HomePage ------------------------*/
-.one-third.column.iconss {
-  display: flex;
-  justify-content: center;
+.row.icon-section {
+    display: flex;
+    justify-content: center;
+    padding: 69px;
+    text-align: center;
 }
 
 /*------------------------ HERO ------------------------*/
