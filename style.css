@@ -87,6 +87,11 @@ ul {
     text-align: center;
 }
 
+h4.widget-title {
+    font-size: 4rem;
+    font-family: 'Anton', sans-serif;
+
+}
 
 /*------------------------ HOME-MISSION ------------------------*/
 
