@@ -261,6 +261,7 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 label {
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 h4.widget-title-contact{
@@ -270,6 +271,15 @@ h4.widget-title-contact{
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   margin-bottom: 0px;
+
+}
+
+h4.widget-title-contact-form{
+  color:#ffffff;
+  font-size: 6rem;
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
 
 }
 
