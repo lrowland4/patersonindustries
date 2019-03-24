@@ -62,6 +62,7 @@
 <!-- SHORT CONTACT FORM SECTION -->
   <div class="row short-form">
     <div class="one-half column">
+      <p>HELLO</p>
       <!-- CTA text -->
     </div>
     <div class="one-half column">
