@@ -11,7 +11,7 @@
     </div>    
    </div>
    
-   <div class="container text-contact">
+   <div class="container text-contactpage">
      <div class="row">
       <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
