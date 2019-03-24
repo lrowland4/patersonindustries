@@ -15,7 +15,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row lightpipe">
+  <div class="row lightpipe divheight">
       <div class="twelve columns about">
         <?php
             if(have_posts()){
@@ -29,7 +29,7 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row">
+  <div class="row divheight">
     <div class="five columns">
       <!-- image -->
       <p>placeholder, safety image</p>
@@ -40,14 +40,14 @@
   </div>
 
   <!-- MISSION STATEMENT -->
-  <div class="row darkhex">
+  <div class="row darkhex divheight">
     <div class="twelve columns">
       <!-- mission statement -->
     </div>
   </div>
 
   <!-- VALUES -->
-  <div class="row lightpipe">
+  <div class="row lightpipe divheight">
     <div class="three columns">
       <!-- icon, text -->
     </div>
@@ -63,7 +63,7 @@
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row">
+  <div class="row divheight">
     <div class="five columns">
       <!-- image -->
     </div>
@@ -73,7 +73,7 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="row">
+  <div class="row divheight">
     <div class="twelve columns">
       <!-- image -->
     </div>

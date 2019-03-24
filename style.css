@@ -215,17 +215,14 @@ a:hover {
 
 .lightpipe {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_white.png");
-  height: 500px;
 }
 
 .darkpipe {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_black_@2X.png");
-  height: 500px;
 }
 
 .darkhex {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/dark-honeycomb.png");
-  height: 500px;
 }
 
 /*------------------------ ABOUT PAGE ------------------------*/
@@ -234,6 +231,10 @@ a:hover {
   width: 70%;
   margin: auto;
   text-align: center;
+}
+
+.divheight {
+  height: 500px;
 }
 
 
