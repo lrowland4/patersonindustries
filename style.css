@@ -244,8 +244,9 @@ img.image.wp-image-365.attachment-full.size-full{
 
 div#wpcf7-f137-p27-o1.wpcf7 {
   background-color:#02573e;
-  padding: 40px;
-  margin-top: -140%;
+  padding: 47px;
+  margin: -34px;
+  margin-top: -137%;
   margin-bottom: 55px;
 
 }
@@ -280,6 +281,7 @@ h4.widget-title-contact-form{
   font-family: 'Anton', sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
+  text-align: center;
 
 }
 
