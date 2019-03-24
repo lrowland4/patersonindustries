@@ -160,18 +160,26 @@ a:hover {
 
 .lightpipe {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_white.png");
-  height: 600px;
+  height: 500px;
 }
 
 .darkpipe {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_black_@2X.png");
-  height: 600px;
+  height: 500px;
 }
 
 .darkhex {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/dark-honeycomb.png");
-  height: 600px;
+  height: 500px;
 }
+
+/*------------------------ ABOUT PAGE ------------------------*/
+
+.about {
+  width: 70%;
+  text-align: center;
+}
+
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
