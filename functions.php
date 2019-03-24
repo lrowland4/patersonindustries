@@ -93,6 +93,17 @@
       'after_title'   =>  '</h4>'
     ));
 
+     // Background Mission Statement on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Mission'),
+      'id'            => 'home-page-mission',
+      'description'   => 'Home page content - mission statement.',
+      'before_widget' => '<div class="home-page-mission">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
     // ABOUT Page
     register_sidebar( array(
       'name'          => ('Content - About'),
