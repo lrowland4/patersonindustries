@@ -43,7 +43,7 @@
       'name'          => ('Hero Image - Contact'),
       'id'            => 'hero-contact',
       'description'   => 'Hero image on contact page.',
-      'before_widget' => '<div class="hero-image-widget">',
+      'before_widget' => '<div class="hero-image-widget-contact">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
@@ -89,7 +89,7 @@
       'description'   => 'Text on contact page.',
       'before_widget' => '<div class="bottom-full">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
+      'before_title'  => '<h4 class="widget-title-contact">',
       'after_title'   =>  '</h4>'
     ));
 
