@@ -265,7 +265,11 @@ label {
     font-weight: 300;
 }
 
-input textarea{
+input{
+  color: #000000;
+}
+
+textarea{
   color: #000000;
 }
 
