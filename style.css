@@ -286,8 +286,8 @@ h4.widget-title-contact-form{
 }
 
 .contact-map{
-      width: 2754px;
-      margin: 50px;
+  max-width: 100%;
+  height: auto;
 }
 
 
