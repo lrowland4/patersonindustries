@@ -75,10 +75,18 @@ ul {
     text-align: center;
 }
 
-.iconss .servicccc{
+.iconss{
   padding-left: 28px;
   padding-right: 28px;
 }
+
+.row.mission-section {
+    display: flex;
+    justify-content: center;
+    padding: 69px;
+    text-align: center;
+}
+
 /*------------------------ HOME-MISSION ------------------------*/
 
 .home-page-mission{
