@@ -15,43 +15,47 @@
     </div> 
   </div>
 <!-- ICON SECTION -->
-  <div class="row">
-    <div class="one-third column">
+  <div class="row icon-section">
+    <div class="one-third column iconss">
       <div class="home-page-1">
         <?php dynamic_sidebar('home-page-1'); ?>
       </div>
     </div>
-    <div class="one-third column">
+    <div class="one-third column iconss">
        <div class="home-page-2">
         <?php dynamic_sidebar('home-page-2'); ?>
       </div>
     </div>
-    <div class="one-third column">
+    <div class="one-third column  iconss">
        <div class="home-page-3">
         <?php dynamic_sidebar('home-page-3'); ?>
       </div>
     </div>
   </div>
 <!-- MISSION STATEMENT SECTION -->
-  <div class="row">
+  <div class="row mission-section">
     <div class="twelve columns">
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
     </div>
   </div>
-<!-- SERVICES SECTION -->
+<!-- SERVICES SECTION --> 
   <div class="row">
     <div class="one-third column">
-      <!-- services 1 -->
+      <div class="home-page-services-1">
+        <?php dynamic_sidebar('home-page-services-1'); ?>
+      </div>
     </div>
-
     <div class="one-third column">
-      <!-- service 2 -->
+       <div class="home-page-services-2">
+        <?php dynamic_sidebar('home-page-services-2'); ?>
+      </div>
     </div>
-
     <div class="one-third column">
-      <!-- services 3 -->
+       <div class="home-page-services-3">
+        <?php dynamic_sidebar('home-page-services-3'); ?>
+      </div>
     </div>
   </div>
 <!-- SHORT CONTACT FORM SECTION -->
