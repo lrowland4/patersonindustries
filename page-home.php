@@ -17,8 +17,8 @@
 <!-- ICON SECTION -->
   <div class="row">
     <div class="one-third column">
-      <div class="home-page">
-        <?php dynamic_sidebar('home-page'); ?>
+      <div class="home-page-1">
+        <?php dynamic_sidebar('home-page-1'); ?>
       </div>
     </div>
     <div class="one-third column">
