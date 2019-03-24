@@ -32,7 +32,7 @@
 
 <!-- THE MAP -->   
   <div class="contact-map">
-    <iframe src="https://snazzymaps.com/embed/141768" width="100%" height="600px" style="border:none;"></iframe>
+    <iframe src="https://snazzymaps.com/embed/141768" width="2000px" height="1086px" style="border:none;"></iframe>
   </div>  
 </div>
 
