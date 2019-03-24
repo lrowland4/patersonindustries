@@ -298,6 +298,16 @@ h4.widget-title-contact-form{
   height: auto;
 }
 
+.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.wpcf7-response-output.wpcf7-display-none.wpcf7-validation-errors{
+  color: #ffffff;
+    font-size: 2rem;
+}
+
 
 
 
