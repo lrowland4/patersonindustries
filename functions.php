@@ -115,6 +115,17 @@
       'after_title'   =>  '</h4>'
     ));
 
+    // Services page image widgets
+    register_sidebar( array(
+      'name'          => ('Content - Services'),
+      'id'            => 'service-image',
+      'description'   => 'Images on Service page.',
+      'before_widget' => '<div class="service-images">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title-service">',
+      'after_title'   =>  '</h4>'
+    ));
+
     // CTA BUTTON on Services page
     register_sidebar( array(
       'name'          => ('Services CTA Buttons'),
