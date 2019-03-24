@@ -245,7 +245,7 @@ img.image.wp-image-365.attachment-full.size-full{
 div#wpcf7-f137-p27-o1.wpcf7 {
   background-color:#02573e;
   padding: 40px;
-  margin-top: -185%;
+  margin-top: -201%;
   margin-bottom: 55px;
 
 }
@@ -254,6 +254,9 @@ div#wpcf7-f137-p27-o1.wpcf7 {
     margin-left: 68%;
 }
 
+.bottom-full {
+    margin-top: -110%;
+}
 
 
 
