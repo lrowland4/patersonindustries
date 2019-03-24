@@ -96,8 +96,11 @@ h4.widget-title {
 
 }
 
-.mission-text{
-  color: #ffffff;
+.mission-text {
+    color: #ffffff;
+    padding: 150px;
+    font-size: 3.5rem;
+    margin-top: -50%;
 }
 
 /*------------------------ HOME-MISSION ------------------------*/
