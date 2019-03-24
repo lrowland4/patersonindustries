@@ -12,18 +12,24 @@
           <h1><?php the_title(); ?></h1>
         </div>
       </div>
-    </div>
+    </div> 
   </div>
 <!-- ICON SECTION -->
   <div class="row">
     <div class="one-third column">
-      <!-- icon, text -->
+      <div class="home-page">
+        <?php dynamic_sidebar('home-page'); ?>
+      </div>
     </div>
     <div class="one-third column">
-      <!-- icon, text -->
+       <div class="home-page">
+        <?php dynamic_sidebar('home-page'); ?>
+      </div>
     </div>
     <div class="one-third column">
-      <!-- icon, text -->
+       <div class="home-page">
+        <?php dynamic_sidebar('home-page'); ?>
+      </div>
     </div>
   </div>
 <!-- MISSION STATEMENT SECTION -->

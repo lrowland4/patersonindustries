@@ -60,7 +60,7 @@
       'after_title'   =>  '</h4>'
     ));
 
-    // WIDGET AREA on Home page
+    // Icon WIDGET AREA on Home page
     register_sidebar( array(
       'name'          => ('Content - Home'),
       'id'            => 'home-page',
