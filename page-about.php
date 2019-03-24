@@ -16,7 +16,7 @@
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
   <div class="row lightpipe">
-      <div class="twelve columns about">
+      <div class="ten columns about container">
         <?php
             if(have_posts()){
               while(have_posts()){
