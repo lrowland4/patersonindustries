@@ -60,12 +60,34 @@
       'after_title'   =>  '</h4>'
     ));
 
-    // WIDGET AREA on Home page
+    // Icon WIDGET AREA 1 on Home page
     register_sidebar( array(
-      'name'          => ('Content - Home'),
-      'id'            => 'home-page',
-      'description'   => 'Home page content.',
-      'before_widget' => '<div class="home-page">',
+      'name'          => ('Home - Icon 1'),
+      'id'            => 'home-page-1',
+      'description'   => 'Home page content - Icon 1.',
+      'before_widget' => '<div class="home-page-1">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+    // Icon WIDGET AREA 2 on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Icon 2'),
+      'id'            => 'home-page-2',
+      'description'   => 'Home page content - Icon 2.',
+      'before_widget' => '<div class="home-page-2">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+     // Icon WIDGET AREA 3 on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Icon 3'),
+      'id'            => 'home-page-3',
+      'description'   => 'Home page content - Icon 3.',
+      'before_widget' => '<div class="home-page-3">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
