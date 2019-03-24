@@ -73,7 +73,7 @@
 
     // Icon WIDGET AREA 2 on Home page
     register_sidebar( array(
-      'name'          => ('Home - Icon 2'),
+      'name'          => ('Home - Icon 2.0'),
       'id'            => 'home-page-2',
       'description'   => 'Home page content - Icon 2.',
       'before_widget' => '<div class="home-page-2">',
@@ -84,7 +84,7 @@
 
      // Icon WIDGET AREA 3 on Home page
     register_sidebar( array(
-      'name'          => ('Home - Icon 3'),
+      'name'          => ('Home - Icon 3.0'),
       'id'            => 'home-page-3',
       'description'   => 'Home page content - Icon 3.',
       'before_widget' => '<div class="home-page-3">',
