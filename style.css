@@ -159,17 +159,17 @@ a:hover {
 /*------------------------ BACKGROUND IMAGES FOR PAGE SECTIONS ------------------------*/
 
 .lightpipe {
-  background-image: url("pw_maze_white.png");
+  background-image: color url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_white.png");
   height: 600px;
 }
 
 .darkpipe {
-  background-image: url("pw_maze_black_@2X.png");
+  background-image: color url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_black_@2X.png");
   height: 600px;
 }
 
 .darkhex {
-  background-image: url("dark-honeycomb.png");
+  background-image: color url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/dark-honeycomb.png");
   height: 600px;
 }
 
