@@ -15,7 +15,7 @@
     </div> 
   </div>
 <!-- ICON SECTION -->
-  <div class="row">
+  <div class="row icon-section">
     <div class="one-third column">
       <div class="home-page-1">
         <?php dynamic_sidebar('home-page-1'); ?>
@@ -33,7 +33,7 @@
     </div>
   </div>
 <!-- MISSION STATEMENT SECTION -->
-  <div class="row">
+  <div class="row mission-section">
     <div class="twelve columns">
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
