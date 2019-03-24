@@ -42,7 +42,7 @@
     </div>
   </div>
 <!-- SERVICES SECTION --> 
-  <div class="row">
+  <div class="row service-section">
     <div class="one-third column iconss">
       <div class="home-page-services-1">
         <?php dynamic_sidebar('home-page-services-1'); ?>

@@ -12,8 +12,8 @@
       'description'   => 'Hero image on home page.',
       'before_widget' => '<div class="hero-image-widget">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
     ));
 
     // HERO image on Services page
