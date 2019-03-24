@@ -60,7 +60,7 @@
     </div>
   </div>
 <!-- SHORT CONTACT FORM SECTION -->
-  <div class="row">
+  <div class="row short-form">
     <div class="one-half column">
       <!-- CTA text -->
     </div>

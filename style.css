@@ -103,10 +103,10 @@ h4.widget-title {
     margin-top: -50%;
 }
 
-/*------------------------ HOME-MISSION ------------------------*/
 
-.home-page-mission{
-  color: #ffffff;
+.short-form{
+  background-color: #252e35;
+  padding: 15px;
 }
 
 /*------------------------ Animated Scroll ------------------------*/
