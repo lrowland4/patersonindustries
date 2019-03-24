@@ -293,10 +293,6 @@ h4.widget-title-contact-form{
 
 }
 
-iframe{
-  max-width: 100%;
-  height: auto;
-}
 
 .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
     color: #ffffff;
