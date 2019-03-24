@@ -265,6 +265,10 @@ label {
     font-weight: 300;
 }
 
+input{
+  color: #000000;
+}
+
 h4.widget-title-contact{
   color:#252e35;
   font-size: 6rem;
