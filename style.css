@@ -87,6 +87,11 @@ ul {
     text-align: center;
 }
 
+h5{
+  font-size: 5rem;
+  color: #ffffff;
+}
+
 /*------------------------ HOME-MISSION ------------------------*/
 
 .home-page-mission{

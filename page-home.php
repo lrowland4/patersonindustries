@@ -36,9 +36,9 @@
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section">
     <div class="twelve columns">
-      <div class="home-page-mission">
+      <h5><div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
-      </div>
+      </div></h5>
     </div>
   </div>
 <!-- SERVICES SECTION --> 
