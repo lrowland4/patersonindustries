@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<div>
+<div class="home">
 <!-- HERO -->
   <div class="row">
     <div class="twelve columns">

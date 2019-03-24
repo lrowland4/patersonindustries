@@ -76,8 +76,8 @@ ul {
 }
 
 .iconss{
-  padding-left: 28px;
-  padding-right: 28px;
+  padding-left: 45px;
+  padding-right: 45px;
 }
 
 .row.service-section {
@@ -94,6 +94,10 @@ ul {
   width: 800px;
   color: #ffffff;
 
+}
+
+.home h4{
+  color: #ffffff;
 }
 
 /*------------------------ HOME-MISSION ------------------------*/
