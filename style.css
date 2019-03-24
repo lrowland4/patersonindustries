@@ -87,7 +87,7 @@ ul {
     text-align: center;
 }
 
-h5{
+.hero{
 
  font-size: 85px;
   font-weight: 700;
@@ -157,7 +157,7 @@ h5{
 }
 
 /*------------------------ FONTS ------------------------*/
-h1, h2, h3, h5 {
+h1, h2, h3, {
   font-family: 'Anton', sans-serif;
   color: #252e35;
   margin-bottom: 0;
