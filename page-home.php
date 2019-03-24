@@ -16,7 +16,7 @@
   </div>
 <!-- ICON SECTION -->
   <div class="row icon-section">
-    <div class="one-third column">
+    <div class="one-third column iconss">
       <div class="home-page-1">
         <?php dynamic_sidebar('home-page-1'); ?>
       </div>

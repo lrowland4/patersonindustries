@@ -67,11 +67,11 @@ ul {
     list-style: none;
 }
 
-/*------------------------ Video Controls ------------------------*/
-.mejs-controls {
-  display: none !important;
-  visibility: hidden !important;
-  }
+/*------------------------ HomePage ------------------------*/
+.one-third.column.iconss {
+  display: flex;
+  justify-content: center;
+}
 
 /*------------------------ HERO ------------------------*/
 .hero {
