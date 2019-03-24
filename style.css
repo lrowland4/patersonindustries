@@ -145,6 +145,22 @@ a:hover {
   max-height: 45px;
 }
 
+/*------------------------ BACKGROUND IMAGES FOR PAGE SECTIONS ------------------------*/
+
+.lightpipe {
+  background-image: url("pw_maze_white.png");
+  height: 600px;
+}
+
+.darkpipe {
+  background-image: url("pw_maze_black_@2X.png");
+  height: 600px;
+}
+
+.darkhex {
+  background-image: url("dark-honeycomb.png");
+  height: 600px;
+}
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
@@ -260,6 +276,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .footer {
   background: #252e35;
+  padding-top: 5px;
 }
 
 .footer a {
@@ -277,7 +294,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 .copyright {
-  background-color: black;
+  background-color: #02573e;
   color: white;
   width: 100%;
   margin: 0;
