@@ -105,9 +105,10 @@ h3 {
 
 h4 {
   font-size: 26px;
-  color: #252e35;
+  color: #02573e;
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 300;
+  margin-bottom: 5px;
 }
 
 p {
@@ -314,7 +315,7 @@ iframe.mapp {
 }
 
 input.wpcf7-form-control.wpcf7-submit:hover {
-    background-color: #eeeee8; 
+    background-color: #eeeee8;
     color: #02573e;
 }
 
