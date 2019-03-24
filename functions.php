@@ -12,7 +12,7 @@
       'description'   => 'Hero image on home page.',
       'before_widget' => '<div class="hero-image-widget">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
+      'before_title'  => '<h4 class="widget-title autoplay">',
       'after_title'   =>  '</h4>'
     ));
 
