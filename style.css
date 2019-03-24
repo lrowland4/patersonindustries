@@ -324,6 +324,15 @@ input.wpcf7-form-control.wpcf7-submit:hover {
 }
 
 
+
+/*------------------------ Services ------------------------*/
+
+img.alignnone {
+    width: 175px;
+    height: 175px;
+    padding: 10px;
+}
+
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {
