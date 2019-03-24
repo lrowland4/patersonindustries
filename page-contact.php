@@ -31,7 +31,7 @@
     </div>
 
 <!-- THE MAP -->   
-  <div class="container contact-map">
+  <div class="contact-map">
     <iframe src="https://snazzymaps.com/embed/141768" width="100%" style="border:none;"></iframe>
   </div>  
 </div>
