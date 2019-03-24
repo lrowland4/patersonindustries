@@ -75,7 +75,12 @@ ul {
     text-align: center;
 }
 
-.iconss.servicccc{
+.iconss{
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.servicccc{
   padding-left: 28px;
   padding-right: 28px;
 }
