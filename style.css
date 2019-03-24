@@ -67,6 +67,12 @@ ul {
     list-style: none;
 }
 
+/*------------------------ Video Controls ------------------------*/
+.mejs-controls {
+  display: none !important;
+  visibility: hidden !important;
+  }
+
 /*------------------------ HERO ------------------------*/
 .hero {
     position: relative;
@@ -311,7 +317,6 @@ input.wpcf7-form-control.wpcf7-submit:hover {
     background-color: #eeeee8; 
     color: #02573e;
 }
-
 
 
 /*------------------------ RANDOM ------------------------*/
