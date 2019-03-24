@@ -71,15 +71,16 @@
   </div>
 <!-- BLOG PREVIEW SECTION -->
   <div class="row .darkpipe">
-    <div class="one-third column">
-      <!-- POST 1 -->
-    </div>
-    <div class="one-third column">
-      <!-- POST 2 -->
-    </div>
-    <div class="one-third column">
-      <!-- POST 3 -->
-    </div>
+    <h4>Industry News</h4>
+      <div class="one-third column">
+        <!-- POST 1 -->
+      </div>
+      <div class="one-third column">
+        <!-- POST 2 -->
+      </div>
+      <div class="one-third column">
+        <!-- POST 3 -->
+      </div>
   </div>
 
 </div>
