@@ -263,9 +263,10 @@ label {
 }
 
 h4.widget-title-contact{
-  color:#02573e;
+  color:#000000;
   font-size: 6rem;
   font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
 
 }
 
