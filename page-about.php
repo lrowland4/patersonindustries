@@ -31,7 +31,7 @@
   <!-- SAFETY SECTION -->
   <div class="row divheight">
     <div class="five columns">
-      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
+      <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
     <div class="seven columns">
       <h4>Our commitment to safety.</h4>

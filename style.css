@@ -237,6 +237,10 @@ a:hover {
   max-height: 45px;
 }
 
+.safetyimg {
+  width: 100%;
+}
+
 /*------------------------ BACKGROUND IMAGES FOR PAGE SECTIONS ------------------------*/
 
 .lightpipe {
