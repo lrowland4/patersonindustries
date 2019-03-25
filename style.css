@@ -224,6 +224,10 @@ a:hover {
   color: white;
 }
 
+.white {
+  color: white;
+}
+
 /*------------------------ ALIGNMENT ------------------------*/
 .centered {
     position: absolute;
@@ -284,8 +288,12 @@ a:hover {
   width: 70%;
 }
 
-.green { /*green background */
+.green { /* green background */
   background-color: #02573e;
+}
+
+.lightgreen { /* light green background */
+  background-color: #afc9c2;
 }
 
 /*------------------------ NEWS / BLOG ------------------------*/
