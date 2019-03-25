@@ -269,6 +269,10 @@ a:hover {
   text-align: center;
 }
 
+.v-icon {
+  width: 100px;
+}
+
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
