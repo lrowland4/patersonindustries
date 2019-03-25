@@ -13,7 +13,7 @@
         </div>
       </div>
       <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
-    </div> 
+    </div>
   </div>
 <!-- ICON SECTION -->
   <div class="row icon-section">
@@ -34,14 +34,14 @@
     </div>
   </div>
 <!-- MISSION STATEMENT SECTION -->
-  <div class="row mission-section">
+  <div class="row mission-section darkhex">
     <div class="twelve columns">
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
     </div>
   </div>
-<!-- SERVICES SECTION --> 
+<!-- SERVICES SECTION -->
   <div class="row service-section ">
     <div class="one-third column iconss">
       <div class="home-page-services-1">
