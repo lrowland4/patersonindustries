@@ -40,9 +40,18 @@
   </div>
 
   <!-- MISSION STATEMENT -->
-  <div class="row darkhex divheight">
-    <div class="twelve columns">
-      <!-- mission statement -->
+  <div class="row darkhex">
+    <div class="about container">
+      <p class="mission-text">
+        From the moment the first shovel hits the ground till the last bolt,
+        we’re there. We understand that some jobs need extra effort and
+        expertise. We know that quality doesn’t come by mistake - it’s built from
+        passion. We realize that with every wrench we turn, weld we make, or
+        hole we dig, we’re building more than infrastructure. We’re building our
+        community. We know this community and we love it. We focus on safely
+        doing whatever it takes to get the job done right. We don’t cut corners.
+        We don’t make excuses.
+      </p>
     </div>
   </div>
 
