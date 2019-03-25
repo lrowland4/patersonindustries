@@ -29,7 +29,7 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row divheight">
+  <div class="row">
     <div class="five columns">
       <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
@@ -77,12 +77,14 @@
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row divheight">
+  <div class="row">
     <div class="five columns">
-      <!-- image -->
+      <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
     <div class="seven columns">
-      <!-- text, LINK TO "COMMUNITY" CATEGORY OF BLOG: http://www.jessica-small.com/PatersonIndustries/category/community/ -->
+      <h4>Our love for the community.</h4>
+      <p>There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
+      <a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a>
     </div>
   </div>
 
