@@ -57,7 +57,7 @@
   </div>
 
   <!-- VALUES -->
-  <div class="lightpipe">
+  <div class="lightpipe divheight">
     <div class="values">
       <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" alt="value icon">
       <p class="center">VALUE 1</p>
@@ -98,6 +98,7 @@
   <!-- JOIN OUR TEAM SECTION -->
   <div class="row">
     <div class="twelve columns">
+      <h4>Want to join our team?</h4>
       <?php dynamic_sidebar('cta-buttons-about'); ?>
     </div>
   </div>
