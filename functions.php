@@ -67,8 +67,8 @@
       'description'   => 'Home page content - Icon 1.',
       'before_widget' => '<div class="home-page-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3">',
+      'after_title'   =>  '</h3>'
     ));
 
     // Icon WIDGET AREA 2 on Home page
@@ -78,8 +78,8 @@
       'description'   => 'Home page content - Icon 2.',
       'before_widget' => '<div class="home-page-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3">',
+      'after_title'   =>  '</h3>'
     ));
 
      // Icon WIDGET AREA 3 on Home page
@@ -89,8 +89,8 @@
       'description'   => 'Home page content - Icon 3.',
       'before_widget' => '<div class="home-page-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3">',
+      'after_title'   =>  '</h3>'
     ));
 
      // Background Mission Statement on Home page
@@ -111,8 +111,8 @@
       'description'   => 'Home page content - Services 1.',
       'before_widget' => '<div class="home-page-services-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
     ));
 
     // Home page - Services Area 2
@@ -122,8 +122,8 @@
       'description'   => 'Home page content - Services 2.',
       'before_widget' => '<div class="home-page-services-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
     ));
 
      // Home page - Services Area 3
@@ -133,8 +133,8 @@
       'description'   => 'Home page content - Services 3.',
       'before_widget' => '<div class="home-page-services-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
     ));
 
     // ABOUT Page
