@@ -31,11 +31,12 @@
   <!-- SAFETY SECTION -->
   <div class="row divheight">
     <div class="five columns">
-      <!-- image -->
-      <p>placeholder, safety image</p>
+      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
     <div class="seven columns">
-      <!-- text, LINK TO "SAFETY" CATEGORY OF BLOG -->
+      <h4>Our commitment to safety.</h4>
+      <p>We work hard to keep you safe. That’s why we’re certified across board to ensure safety and quality in everything that we do.</p>
+      <a href="http://www.jessica-small.com/PatersonIndustries/category/paterson-industries-ltd/" class="button">Learn More</a>
     </div>
   </div>
 
