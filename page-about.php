@@ -89,8 +89,8 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="cream">
-    <h3 class="center">Experts you can trust</h3>
+  <div class="cream center">
+    <h3>Experts you can trust</h3>
     <p> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
   </div>
 
