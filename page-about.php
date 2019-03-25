@@ -58,16 +58,16 @@
   <!-- VALUES -->
   <div class="row lightpipe divheight">
     <div class="three columns">
-      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "40px" alt="value icon">
+      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "100px" alt="value icon">
     </div>
     <div class="three columns">
-      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "40px" alt="value icon">
+      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "100px" alt="value icon">
     </div>
     <div class="three columns">
-      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "40px" alt="value icon">
+      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "100px" alt="value icon">
     </div>
     <div class="three columns">
-      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "40px" alt="value icon">
+      <img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" width= "100px" alt="value icon">
     </div>
   </div>
 
