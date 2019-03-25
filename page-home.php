@@ -34,7 +34,7 @@
     </div>
   </div>
 <!-- MISSION STATEMENT SECTION -->
-  <div class="row mission-section darkhex divheight">
+  <div class="row mission-section darkhex">
     <div class="twelve columns">
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
