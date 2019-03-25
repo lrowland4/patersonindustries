@@ -263,6 +263,11 @@ a:hover {
   height: 500px;
 }
 
+.values {
+  width: 20%
+  padding: 5%
+}
+
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
