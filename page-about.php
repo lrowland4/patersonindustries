@@ -89,8 +89,8 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="row divheight">
-    <h3>Experts you can trust</h3>
+  <div class="row lightgreen">
+    <h3 class="center">Experts you can trust</h3>
     <div class="four columns">
       <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
