@@ -297,6 +297,10 @@ a:hover {
   background-color: #afc9c2;
 }
 
+.cream { /* cream background */
+  background-color: #eeeee8;;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;

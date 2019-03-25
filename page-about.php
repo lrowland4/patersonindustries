@@ -89,12 +89,12 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="row lightgreen">
+  <div class="row cream">
     <h3 class="center">Experts you can trust</h3>
-    <div class="four columns">
+    <div class="five columns">
       <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
-    <div class="eight columns">
+    <div class="seven columns">
       <p> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
     </div>
   </div>
