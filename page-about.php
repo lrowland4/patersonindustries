@@ -90,7 +90,7 @@
 
   <!-- BIOS SECTION -->
   <div class="row cream">
-    <h3 class="center">Experts you can trust</h3>
+    <div class="twelve columns"><h3 class="center">Experts you can trust</h3></div>
     <div class="five columns">
       <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
