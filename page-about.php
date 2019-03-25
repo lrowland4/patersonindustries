@@ -56,7 +56,7 @@
   </div>
 
   <!-- VALUES -->
-  <div class="row lightpipe divheight">
+  <div class="lightpipe divheight">
     <div class="values">
       <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" alt="value icon">
     </div>

@@ -267,6 +267,8 @@ a:hover {
   width: 18%;
   padding: 5%;
   text-align: center;
+  display: block;
+  float: left;
 }
 
 .v-icon {
