@@ -299,7 +299,7 @@ a:hover {
 }
 
 .cream { /* cream background */
-  background-color: #eeeee8;;
+  background-color: #eeeee8;
 }
 
 /*------------------------ NEWS / BLOG ------------------------*/
@@ -340,18 +340,9 @@ input#s {
 
 .button:hover {
   background-color: #bfc8c6;
-  color: #252e35;
+  color: #eeeee8;
 }
 
-.cta-buttons-services {
-  margin-bottom: 20px;
-  margin-top: 30px;
-}
-
-.cta-buttons-about {
-  margin-bottom: 20px;
-  margin-top: 30px;
-}
 
 /*------------------------ CONTACT FORM ------------------------*/
 
