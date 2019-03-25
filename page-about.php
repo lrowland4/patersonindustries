@@ -98,8 +98,8 @@
   <!-- JOIN OUR TEAM SECTION -->
   <div class="row">
     <div class="twelve columns">
-      <h4>Want to join our team?</h4>
-      <?php dynamic_sidebar('cta-buttons-about'); ?>
+      <h3 class="center">Want to join our team?</h3>
+      <a href="http://www.jessica-small.com/PatersonIndustries/" class="button">Careers at Paterson Industries Ltd.</a>
     </div>
   </div>
 
