@@ -179,6 +179,7 @@ h2 {
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
+  padding-top: 15px;
 }
 
 h3 {
@@ -187,6 +188,7 @@ h3 {
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
+  padding-top: 10px;
 }
 
 h4 {
