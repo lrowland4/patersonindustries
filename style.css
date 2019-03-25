@@ -163,11 +163,6 @@ h4.widget-title {
 }
 
 /*------------------------ FONTS ------------------------*/
-h1, h2, h3, {
-  font-family: 'Anton', sans-serif;
-  color: #252e35;
-  margin-bottom: 0;
-}
 
 h1 {
   font-size: 85px;
@@ -175,18 +170,23 @@ h1 {
   width: 800px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
+  margin-bottom: 0;
 }
 
 h2 {
   font-size: 40px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
+  margin-bottom: 0;
+  text-transform: uppercase;
 }
 
 h3 {
   font-size: 30px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
+  margin-bottom: 0;
+  text-transform: uppercase;
 }
 
 h4 {
@@ -195,6 +195,7 @@ h4 {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   margin-bottom: 5px;
+  margin-bottom: 0;
 }
 
 h4 a {
