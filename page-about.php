@@ -96,9 +96,9 @@
   </div>
 
   <!-- JOIN OUR TEAM SECTION -->
-  <div class="row">
-    <div class="twelve columns">
-      <h3 class="center">Want to join our team?</h3>
+  <div class="row green">
+    <div class="twelve columns" center>
+      <h3 class="">Want to join our team?</h3>
       <a href="http://www.jessica-small.com/PatersonIndustries/" class="button">Careers at Paterson Industries Ltd.</a>
     </div>
   </div>
