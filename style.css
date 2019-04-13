@@ -83,7 +83,7 @@ ul {
 
 .row.service-section {
     justify-content: center;
-    padding: 2%;
+    padding: 0 2% 2% 2%;
     text-align: center;
 }
 
@@ -97,7 +97,7 @@ h4.widget-title {
 
 .mission-text {
     color: #ffffff;
-    padding: 0 5% 5% 5%;
+    padding: 0 8% 2% 8%;
     font-size: 18px;
 }
 
@@ -528,7 +528,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
   p {
-    font-size: 18pt;
+    font-size: 17pt;
   }
 
   header ul#menu-header-menu {
