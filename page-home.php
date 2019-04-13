@@ -17,6 +17,9 @@
   </div>
 
 <!-- SERVICES SECTION -->
+  <div class="row">
+    <h2>Our Services</h2>
+  </div>
   <div class="row service-section ">
     <div class="one-third column iconss">
       <div class="home-page-services-1">
