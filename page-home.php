@@ -14,32 +14,32 @@
   </div>
 
 <!-- SERVICES SECTION -->
-<div class="lightpipe">
-  <div class="row">
-    <h2 class="center">Our Services</h2>
+  <div class="lightpipe">
+    <div class="row">
+      <h2 class="center">Our Services</h2>
+    </div>
+    <div class="row service-section">
+      <div class="one-third column iconss">
+        <div class="home-page-services-1">
+          <?php dynamic_sidebar('home-page-services-1'); ?>
+        </div>
+      </div>
+      <div class="one-third column iconss">
+          <div class="home-page-services-2">
+          <?php dynamic_sidebar('home-page-services-2'); ?>
+        </div>
+      </div>
+      <div class="one-third column iconss">
+          <div class="home-page-services-3">
+          <?php dynamic_sidebar('home-page-services-3'); ?>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="row service-section">
-    <div class="one-third column iconss">
-      <div class="home-page-services-1">
-        <?php dynamic_sidebar('home-page-services-1'); ?>
-      </div>
-    </div>
-    <div class="one-third column iconss">
-        <div class="home-page-services-2">
-        <?php dynamic_sidebar('home-page-services-2'); ?>
-      </div>
-    </div>
-    <div class="one-third column iconss">
-        <div class="home-page-services-3">
-        <?php dynamic_sidebar('home-page-services-3'); ?>
-      </div>
-    </div>
-  </div>
-</div>
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
-      <h3>Our Mission</h3>
+      <h3 class="center">Our Mission</h3>
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
@@ -63,28 +63,12 @@
         </div>
       </div>
     </div>
-<!-- SHORT CONTACT FORM SECTION -->
-  <div class="row short-form">
-    <div class="one-half column">
-      <p>Contact Short Form</p>
-      <!-- CTA text -->
+<!-- CTA SECTION -->
+    <div class="row">
+      <a class="button" href="/images/myw3schoolsimage.jpg" download>Download Our Company Info Sheet</a>
+      <a class="button" href="tel:555-555-5555">Give Us A Call</a>
     </div>
-    <div class="one-half column">
-      <!-- email submission form -->
-    </div>
-  </div>
-<!-- BLOG PREVIEW SECTION -->
-  <div class="row .darkpipe">
-    <h4>Industry News</h4>
-      <div class="one-third column">
-        <!-- POST 1 -->
-      </div>
-      <div class="one-third column">
-        <!-- POST 2 -->
-      </div>
-      <div class="one-third column">
-        <!-- POST 3 -->
-      </div>
+
   </div>
 
 </div>
