@@ -65,6 +65,9 @@ ul {
     list-style: none;
 }
 
+.top {
+    width: 100%;
+
 /*------------------------ HomePage ------------------------*/
 .row.icon-section {
     justify-content: center;
@@ -509,7 +512,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 @media only screen and (min-width: 1080px) {
 
   .icon { /* LOGO STYLING FOR HEADER */
-    max-height: 55px;
+    max-width: 175px;
   }
 
   p {
@@ -526,6 +529,12 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     margin-left: 50px;
     font-size: 20pt;
   }
+
+  .top {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    top: 0;
 
 }
 
