@@ -3,7 +3,6 @@
 <head>
   <!-- Google Analytics Goes Here-->
   <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Paterson Industries Ltd. is a pipefitting construction company, headquartered in Dawson Creek, B.C.">
   <meta name="keywords" content="pipe, pipefitting, construction, gas, Dawson Creek, Paterson, Industries, Canada">
   <title><?php bloginfo('name'); ?></title>
