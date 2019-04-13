@@ -8,10 +8,10 @@
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-image'); ?>
-        <div class="centered">
+        <!-- <div class="centered">
           <h1 class="hide"><?php the_title(); ?></h1>
           <h2 class="hide">Pipefitting Construction Company</h2>
-        </div>
+        </div> -->
       </div>
       <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
     </div>
