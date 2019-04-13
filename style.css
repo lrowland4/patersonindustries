@@ -66,10 +66,7 @@ ul {
 }
 
 .stick {
-  position: fixed;
   width: 100%;
-  z-index: 100;
-  top: 0;
 }
 
 /*------------------------ HomePage ------------------------*/
@@ -539,6 +536,13 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     visibility: visible;
   }
 
+  .stick {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+  }
+  
 }
 
 @media screen and (max-width: 750px) {
