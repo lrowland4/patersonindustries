@@ -168,6 +168,7 @@ h1 {
   color: #eeeee8;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -175,12 +176,14 @@ h2 {
   color: #252e35;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
+  text-transform: uppercase;
 }
 
 h3 {
   font-size: 50px;
-  color: #eeeee8;
+  color: #02573e;
   font-family: 'Anton', sans-serif;
+  margin-top: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -192,6 +195,7 @@ h4 {
   font-weight: 300;
   margin-bottom: 5px;
   margin-bottom: 0;
+  text-transform: uppercase;
 }
 
 h4 a {
@@ -203,6 +207,8 @@ p {
   font-weight: 300;
   color: #252e35;
   font-size: 24pt;
+  line-height: 1.2;
+  margin-top: 5px;
 }
 
 a {
