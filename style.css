@@ -69,7 +69,6 @@ ul {
 
 /*------------------------ HomePage ------------------------*/
 .row.icon-section {
-    display: flex;
     justify-content: center;
     padding: 68px;
     text-align: center;
@@ -81,7 +80,6 @@ ul {
 }
 
 .row.service-section {
-    display: flex;
     justify-content: center;
     padding: 2%;
     text-align: center;

@@ -20,7 +20,7 @@
   <div class="row">
     <h2 class="center">Our Services</h2>
   </div>
-  <div class="row service-section ">
+  <div class="row service-section">
     <div class="one-third column iconss">
       <div class="home-page-services-1">
         <?php dynamic_sidebar('home-page-services-1'); ?>
@@ -40,6 +40,7 @@
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
+      <h2>Our mission</h2>
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
