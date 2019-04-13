@@ -57,7 +57,7 @@ header ul#menu-header-menu li {
   font-family: 'Roboto', sans-serif;
   display: inline;
   padding-left: 10px;
-  margin-left: : 10px;
+  margin-left: 50px;
   color: white;
   text-transform: uppercase;
   font-size: 35px;
@@ -162,8 +162,8 @@ h4.widget-title {
 /*------------------------ FONTS ------------------------*/
 
 h1 {
-  font-size: 85px;
-  color: #252e35;
+  font-size: 75px;
+  color: #eeeee8;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
 }
@@ -187,7 +187,7 @@ h3 {
 }
 
 h4 {
-  font-size: 26px;
+  font-size: 35px;
   color: #02573e;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -245,7 +245,7 @@ a:hover {
 
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
-  max-height: 45px;
+  max-height: 55px;
 }
 
 .safetyimg {
@@ -510,22 +510,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 /* I HAVEN'T BEEN DILIGENT ABOUT CODING MOBILE FIRST, BUT SINCE THIS IS USING SKELETON, IT SHOULD ALL WRAP.. WILL TEST AND ADJUST MORE FOR PHASE 2! */
 @media only screen and (min-width: 800px) {
 
-  p {
-    font-size: 1.7rem;
-  }
-
-  header ul#menu-header-menu li {
-    font-size: 20px;
-  }
 }
 
 @media screen and (max-width: 750px) {
-  h1 {
-    font-size: 50px;
-    font-weight: 700;
-  }
 
-  label {
-    font-size: 35px;
-  }
 }
