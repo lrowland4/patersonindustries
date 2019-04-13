@@ -163,15 +163,13 @@ h4.widget-title {
 
 h1 {
   font-size: 85px;
-  font-weight: 700;
-  width: 800px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 65px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
@@ -180,7 +178,7 @@ h2 {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 50px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
@@ -205,7 +203,7 @@ p {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #252e35;
-  font-size: 3.5rem;
+  font-size: 24pt;
 }
 
 a {
