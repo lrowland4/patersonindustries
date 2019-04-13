@@ -40,7 +40,6 @@ body {
 /*------------------------ HEADER ------------------------*/
 .header {
   background-color: rgba(37, 46, 53, 0.5);
-  height: 50px;
   padding: 5px 25px;
 }
 
@@ -56,10 +55,10 @@ header ul#menu-header-menu {
 header ul#menu-header-menu li {
   font-family: 'Roboto', sans-serif;
   display: inline;
-  padding: 5%;
+  padding: 3%;
   color: white;
   text-transform: uppercase;
-  font-size: 35px;
+  font-size: 26px;
 }
 
 ul {

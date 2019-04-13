@@ -14,10 +14,10 @@
 <body>
 <header class="header">
   <div class="row">
-    <div class="three columns">
+    <div class="four columns">
       <a href="<?php echo home_url('/'); ?>"><img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/PI-logo-09.png" class="icon" alt="Home"></a>
     </div>
-    <div class="nine columns">
+    <div class="eight columns">
       <?php wp_nav_menu(array(
           'theme_location'    => 'header-menu',
           'container-class'   => 'menu-header'
