@@ -15,21 +15,22 @@
       <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
     </div>
   </div>
-<!-- ICON SECTION -->
-  <div class="row icon-section">
+
+<!-- SERVICES SECTION -->
+  <div class="row service-section ">
     <div class="one-third column iconss">
-      <div class="home-page-1">
-        <?php dynamic_sidebar('home-page-1'); ?>
+      <div class="home-page-services-1">
+        <?php dynamic_sidebar('home-page-services-1'); ?>
       </div>
     </div>
     <div class="one-third column iconss">
-       <div class="home-page-2">
-        <?php dynamic_sidebar('home-page-2'); ?>
+        <div class="home-page-services-2">
+        <?php dynamic_sidebar('home-page-services-2'); ?>
       </div>
     </div>
-    <div class="one-third column  iconss">
-       <div class="home-page-3">
-        <?php dynamic_sidebar('home-page-3'); ?>
+    <div class="one-third column iconss">
+        <div class="home-page-services-3">
+        <?php dynamic_sidebar('home-page-services-3'); ?>
       </div>
     </div>
   </div>
@@ -41,24 +42,24 @@
       </div>
     </div>
   </div>
-<!-- SERVICES SECTION -->
-  <div class="row service-section ">
-    <div class="one-third column iconss">
-      <div class="home-page-services-1">
-        <?php dynamic_sidebar('home-page-services-1'); ?>
+  <!-- ICON SECTION -->
+    <div class="row icon-section">
+      <div class="one-third column iconss">
+        <div class="home-page-1">
+          <?php dynamic_sidebar('home-page-1'); ?>
+        </div>
+      </div>
+      <div class="one-third column iconss">
+         <div class="home-page-2">
+          <?php dynamic_sidebar('home-page-2'); ?>
+        </div>
+      </div>
+      <div class="one-third column  iconss">
+         <div class="home-page-3">
+          <?php dynamic_sidebar('home-page-3'); ?>
+        </div>
       </div>
     </div>
-    <div class="one-third column iconss">
-       <div class="home-page-services-2">
-        <?php dynamic_sidebar('home-page-services-2'); ?>
-      </div>
-    </div>
-    <div class="one-third column iconss">
-       <div class="home-page-services-3">
-        <?php dynamic_sidebar('home-page-services-3'); ?>
-      </div>
-    </div>
-  </div>
 <!-- SHORT CONTACT FORM SECTION -->
   <div class="row short-form">
     <div class="one-half column">
