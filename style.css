@@ -248,6 +248,11 @@ a:hover {
   height: 400px;
 }
 
+.cta {
+  margin: auto;
+  padding: 5%;
+}
+
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
   width: 50%;

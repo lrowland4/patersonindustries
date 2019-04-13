@@ -64,7 +64,7 @@
       </div>
     </div>
 <!-- CTA SECTION -->
-    <div class="row">
+    <div class="row cream cta">
       <a class="button" href="/images/myw3schoolsimage.jpg" download>Download Our Company Info Sheet</a>
       <a class="button" href="tel:555-555-5555">Give Us A Call</a>
     </div>
