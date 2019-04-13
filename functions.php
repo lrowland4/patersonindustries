@@ -67,7 +67,7 @@
       'description'   => 'Home page content - Icon 1.',
       'before_widget' => '<div class="home-page-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3">',
+      'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
     ));
 
@@ -78,7 +78,7 @@
       'description'   => 'Home page content - Icon 2.',
       'before_widget' => '<div class="home-page-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3">',
+      'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
     ));
 
@@ -89,7 +89,7 @@
       'description'   => 'Home page content - Icon 3.',
       'before_widget' => '<div class="home-page-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3">',
+      'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
     ));
 
