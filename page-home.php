@@ -64,8 +64,8 @@
       </div>
     </div>
 <!-- CTA SECTION -->
-    <div class="row cream cta">
-      <a class="button" href="/images/myw3schoolsimage.jpg" download>Download Our Company Info Sheet</a>
+    <div class="row lightpipe center cta">
+      <a class="button" href="/images/patersonindustries-logo_Logo.png" download>Download Our Company Info Sheet</a>
       <a class="button" href="tel:555-555-5555">Give Us A Call</a>
     </div>
 
