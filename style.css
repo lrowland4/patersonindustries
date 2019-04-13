@@ -245,7 +245,7 @@ a:hover {
 
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
-  width: 70%;
+  width: 50%;
   text-align: center;
 }
 
@@ -528,8 +528,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
   header ul#menu-header-menu li {
-    margin-left: 35px;
-    font-size: 18pt;
+    margin-left: 15px;
+    font-size: 16pt;
   }
 
   .hide { /*for hiding things in mobile */
@@ -542,7 +542,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     z-index: 100;
     top: 0;
   }
-  
+
 }
 
 @media screen and (max-width: 750px) {
