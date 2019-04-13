@@ -83,7 +83,7 @@ ul {
 .row.service-section {
     display: flex;
     justify-content: center;
-    padding: 68px;
+    padding: 2%;
     text-align: center;
 }
 
