@@ -49,15 +49,14 @@ body {
 }
 
 header ul#menu-header-menu {
-  text-align: right;
+  text-align: center;
   padding-top: 10px;
 }
 
 header ul#menu-header-menu li {
   font-family: 'Roboto', sans-serif;
   display: inline;
-  padding-left: 10px;
-  margin-left: 50px;
+  padding: 5%;
   color: white;
   text-transform: uppercase;
   font-size: 35px;
@@ -507,8 +506,20 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 /*------------------------ MEDIA QUERIES ------------------------*/
 
-/* I HAVEN'T BEEN DILIGENT ABOUT CODING MOBILE FIRST, BUT SINCE THIS IS USING SKELETON, IT SHOULD ALL WRAP.. WILL TEST AND ADJUST MORE FOR PHASE 2! */
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 1080px) {
+  p {
+    font-size: 18pt;
+  }
+
+  header ul#menu-header-menu {
+    text-align: right;
+    padding-top: 10px;
+  }
+
+  header ul#menu-header-menu li {
+    padding-left: 10px;
+    margin-left: 50px;
+  }
 
 }
 
