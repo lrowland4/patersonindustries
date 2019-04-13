@@ -8,14 +8,15 @@
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-image'); ?>
-        <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
+        <a class="ca3-scroll-down-link ca3-scroll-down-arrow hide" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
       </div>
     </div>
   </div>
 
 <!-- SERVICES SECTION -->
+<div class="lightpipe">
   <div class="row">
-    <h3 class="center">Our Services</h3>
+    <h2 class="center">Our Services</h2>
   </div>
   <div class="row service-section">
     <div class="one-third column iconss">
@@ -34,6 +35,7 @@
       </div>
     </div>
   </div>
+</div>
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
