@@ -172,7 +172,7 @@ h1 {
 
 h2 {
   font-size: 65px;
-  color: #252e35;
+  color: #eeeee8;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -181,7 +181,7 @@ h2 {
 
 h3 {
   font-size: 50px;
-  color: #252e35;
+  color: #eeeee8;
   font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -526,9 +526,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
   header ul#menu-header-menu li {
-    padding-left: 10px;
-    margin-left: 50px;
-    font-size: 20pt;
+    margin-left: 35px;
+    font-size: 18pt;
   }
 
   .stick {

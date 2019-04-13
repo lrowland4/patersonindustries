@@ -10,6 +10,7 @@
         <?php dynamic_sidebar('hero-image'); ?>
         <div class="centered">
           <h1><?php the_title(); ?></h1>
+          <h2>Pipefitting Construction Company</h2>
         </div>
       </div>
       <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon=""></a>
@@ -40,7 +41,7 @@
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
-      <h2>Our mission</h2>
+      <h3>Our Mission</h3>
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
