@@ -62,11 +62,12 @@ header ul#menu-header-menu li {
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
-.top {
-    width: 100%;
+.stick {
+  width: 100%;
+}
 
 /*------------------------ HomePage ------------------------*/
 .row.icon-section {
@@ -530,11 +531,12 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     font-size: 20pt;
   }
 
-  .top {
+  .stick {
     position: fixed;
     width: 100%;
     z-index: 100;
     top: 0;
+  }
 
 }
 
