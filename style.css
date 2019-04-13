@@ -244,7 +244,8 @@ a:hover {
 
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
-  max-height: 55px;
+  width: 70%;
+  text-align: center;
 }
 
 .safetyimg {
@@ -507,6 +508,11 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 /*------------------------ MEDIA QUERIES ------------------------*/
 
 @media only screen and (min-width: 1080px) {
+
+  .icon { /* LOGO STYLING FOR HEADER */
+    max-height: 55px;
+  }
+
   p {
     font-size: 18pt;
   }
@@ -519,6 +525,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   header ul#menu-header-menu li {
     padding-left: 10px;
     margin-left: 50px;
+    font-size: 20pt;
   }
 
 }
