@@ -1,5 +1,5 @@
 <div class="footer">
-  <div class="row container">
+  <div class="row container mobile-c">
     <div class="one-third column">
       <a href="<?php echo home_url('/'); ?>"><img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/PI-logo-09.png" alt="Home"></a>
     </div>
