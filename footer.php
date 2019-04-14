@@ -1,7 +1,7 @@
 <div class="footer">
   <div class="row container mobile-c">
     <div class="one-half column">
-      <?php dynamic_sidebar('bottom-right-contact'); ?>
+      <?php dynamic_sidebar('bottom-left-contact'); ?>
     </div>
     <div class="one-half column">
       <?php wp_nav_menu(array(

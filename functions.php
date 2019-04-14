@@ -170,12 +170,12 @@
       'after_title'   =>  '</h4>'
     ));
 
-    // BOTTOM RIGHT CONTACT in FOOTER widget
+    // BOTTOM LEFT CONTACT in FOOTER widget
     register_sidebar( array(
       'name'          => ('Contact Info - Footer'),
-      'id'            => 'bottom-right-contact',
-      'description'   => 'Bottom right column in the footer for contact info.',
-      'before_widget' => '<div class="bottom-right">',
+      'id'            => 'bottom-left-contact',
+      'description'   => 'Bottom left column in the footer for contact info.',
+      'before_widget' => '<div class="bottom-left">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
