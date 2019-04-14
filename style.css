@@ -497,6 +497,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 .footer {
   background: #252e35;
   padding-top: 3%;
+  margin: auto;
 }
 
 .footer a {
@@ -537,6 +538,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   h1 {
     font-family: 'Anton', sans-serif;
+    line-height: 1;
   }
 
   h2 {
