@@ -486,6 +486,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .footer ul#menu-footer-menu li {
   list-style: none;
+  display: inline;
   font-family: 'Roboto', sans-serif;
   padding-bottom: 3px;
   margin: 10px;
