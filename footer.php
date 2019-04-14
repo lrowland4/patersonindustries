@@ -1,13 +1,13 @@
 <div class="footer">
   <div class="row container mobile-c">
-    <div class="four columns">
+    <div class="eight columns">
       <?php wp_nav_menu(array(
           'theme_location'    => 'footer-menu',
           'container-class'   => 'footer'
         ));
       ?>
     </div>
-    <div class="eight columns">
+    <div class="four columns">
       <?php dynamic_sidebar('bottom-left-contact'); ?>
     </div>
   </div>

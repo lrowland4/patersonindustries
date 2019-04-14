@@ -564,6 +564,12 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     font-size: 16pt;
   }
 
+  .footer ul#menu-footer-menu li {
+    padding-bottom: 5px;
+    margin: 10px;
+    font-size: 12pt;
+  }
+
   .hide { /*for hiding things in mobile */
     visibility: visible;
   }
