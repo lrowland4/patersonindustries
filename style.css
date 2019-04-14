@@ -167,7 +167,7 @@ h4.widget-title {
 h1 {
   font-size: 75px;
   color: #eeeee8;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -175,7 +175,7 @@ h1 {
 h2 {
   font-size: 65px;
   color: #252e35;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -183,7 +183,7 @@ h2 {
 h3 {
   font-size: 50px;
   color: #02573e;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-top: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -518,7 +518,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   width: 100%;
   margin: 0;
   text-align: center;
-  margin-top: 15px;
+  padding-top: 15px;
 }
 
 /*------------------------ MEDIA QUERIES ------------------------*/
@@ -532,6 +532,18 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   p {
     font-size: 17pt;
     padding-bottom: 0;
+  }
+
+  h1 {
+    font-family: 'Anton', sans-serif;
+  }
+
+  h2 {
+    font-family: 'Anton', sans-serif;
+  }
+
+  h3 {
+    font-family: 'Anton', sans-serif;
   }
 
   .mission-text {
