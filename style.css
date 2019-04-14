@@ -497,7 +497,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .footer {
   background: #252e35;
-  padding-top: 3%;
+  padding-top: 1%;
   margin: auto;
 }
 
@@ -570,6 +570,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     margin: 10px;
     font-size: 12pt;
   }
+
+  ul#menu-footer-menu {
+    padding-top: 25px;
+}
 
   .hide { /*for hiding things in mobile */
     visibility: visible;
