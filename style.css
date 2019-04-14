@@ -488,7 +488,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   list-style: none;
   display: inline;
   font-family: 'Roboto', sans-serif;
-  padding-bottom: 3px;
+  padding: 10 0 3 0;
   margin: 10px;
   color: #1d5400;
   text-transform: uppercase;
@@ -539,12 +539,12 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   h1 {
     font-family: 'Anton', sans-serif;
-    line-height: 1;
+    line-height: 1.2;
   }
 
   h2 {
     font-family: 'Anton', sans-serif;
-    line-height: auto;
+    line-height: 1.6;
   }
 
   h3 {
