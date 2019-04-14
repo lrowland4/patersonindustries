@@ -103,7 +103,7 @@ h4.widget-title {
 .mission-text {
     color: #ffffff;
     padding: 0 8% 2% 8%;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 
@@ -214,6 +214,7 @@ p {
   font-size: 24pt;
   line-height: 1.2;
   margin-top: 5px;
+  padding-bottom: 2%;
 }
 
 a {
@@ -534,6 +535,11 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   p {
     font-size: 17pt;
+    padding-bottom: 0;
+  }
+
+  .mission-text {
+      font-size: 18px;
   }
 
   header ul#menu-header-menu {
