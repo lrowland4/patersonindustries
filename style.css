@@ -70,6 +70,7 @@ ul {
 }
 
 .mobile-c {
+  margin: auto;
   text-align: center;
 }
 
@@ -557,7 +558,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
   .mobile-c {
-    text-align: left;
+    margin: inherit;
+    text-align: inherit;
   }
 
 }
