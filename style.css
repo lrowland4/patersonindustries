@@ -39,12 +39,8 @@ body {
 
 /*------------------------ HEADER ------------------------*/
 .header {
-  background-color: rgba(37, 46, 53, 0.5);
-  padding: 5px 25px;
-}
-
-.header:hover {
   background-color: rgba(37, 46, 53, 1);
+  padding: 5px 25px;
 }
 
 header ul#menu-header-menu {
@@ -576,6 +572,15 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   .copyright {
     padding: 5px;
+  }
+
+  .header {
+    background-color: rgba(37, 46, 53, 0.5);
+    padding: 5px 25px;
+  }
+
+  .header:hover {
+    background-color: rgba(37, 46, 53, 1);
   }
 
 }
