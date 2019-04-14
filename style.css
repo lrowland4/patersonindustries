@@ -488,7 +488,6 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   list-style: none;
   display: inline;
   font-family: 'Roboto', sans-serif;
-  padding: 10 0 3 0;
   margin: 10px;
   color: #1d5400;
   text-transform: uppercase;
@@ -602,6 +601,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   .header:hover {
     background-color: rgba(37, 46, 53, 1);
+  }
+
+  .small {
+    font-size: 12px;
   }
 
 }
