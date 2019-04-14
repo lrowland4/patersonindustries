@@ -14,7 +14,7 @@
 <body>
 <header class="header stick">
   <div class="row">
-    <div class="four columns">
+    <div class="four columns mobile-c">
       <a href="<?php echo home_url('/'); ?>"><img src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/PI-logo-09.png" class="icon" alt="Home"></a>
     </div>
     <div class="eight columns">
