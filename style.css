@@ -537,7 +537,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
   p {
-    font-size: 17pt;
+    font-size: 16pt;
     padding-bottom: 0;
   }
 
@@ -611,6 +611,20 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   .small {
     font-size: 13px;
   }
+
+  /* CONTACT MEDIA Q */
+
+  div#wpcf7-f137-p27-o1.wpcf7 {
+    margin-top: -176%;
+  }
+
+  h4.widget-title-contact-form {
+    font-size: 5rem;
+   } 
+
+  iframe.mapp {
+    margin-top: -148px;
+} 
 
 }
 
