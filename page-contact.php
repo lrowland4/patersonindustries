@@ -38,7 +38,7 @@
 <!-- CONTACT INFO -->
 
  
- <div class="row container">
+ <div class="row container form-row">
     <div class="twelve columns">
       <?php dynamic_sidebar('bottom-full-contact'); ?>
     </div>

@@ -645,6 +645,11 @@ div#wpcf7-f137-p27-o1.wpcf7 {
     margin-top: 15%;
 }
 
+.container.four.columns.formms {
+    margin-top: -6%;
+    margin-left: 9%;
+}
+
 }
 
 @media screen and (max-width: 750px) {
