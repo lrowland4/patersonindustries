@@ -1,7 +1,7 @@
 <?php /* Template Name: Contact Page Template */ ?>
 
 <?php get_header(); ?>
-
+<div class="lightpipe">
 <div class="lightpipe">
   <div class="row top-contact lightpipe">
     <div class="twelve columns">
@@ -44,5 +44,5 @@
       <?php dynamic_sidebar('bottom-full-contact'); ?>
     </div>
   </div>
-
+</div>
 <?php get_footer(); ?>
