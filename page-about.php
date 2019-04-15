@@ -15,7 +15,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row darkpipe">
+  <div class="row lightpipe">
       <div class="about container">
         <?php
             if(have_posts()){
