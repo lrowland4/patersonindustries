@@ -1,8 +1,8 @@
 <?php /* Template Name: Contact Page Template */ ?>
 
 <?php get_header(); ?>
-<div class="">
-  <div class="row top-contact lightpipe">
+<div class="lightpipe">
+  <div class="row top-contact">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
