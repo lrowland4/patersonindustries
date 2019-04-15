@@ -384,7 +384,18 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     width: 100%;
 }
 
+.top-contact{
+  margin-top: -250px;
+}
 
+div#wpcf7-f137-p27-o1.wpcf7 {
+  background-color:#02573e;
+  padding: 47px;
+  margin: -34px;
+  margin-top: -137%;
+  margin-bottom: 55px;
+
+}
 
 .container.four.columns.formms {
     margin-left: 68%;

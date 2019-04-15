@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <div class="lightpipe">
-  <div class="row">
+  <div class="row top-contact">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
