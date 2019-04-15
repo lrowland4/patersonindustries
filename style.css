@@ -402,6 +402,7 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 
 .container.four.columns.formms {
     margin-left: 68%;
+    margin-top: -6%;
 }
 
 .bottom-full {
@@ -439,11 +440,11 @@ h4.widget-title-contact-form{
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   text-align: center;
-
+  margin-top: -10px;
 }
 
 iframe.mapp {
-    margin-top: -278px;
+    margin-top: -290px;
 }
 
 .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
