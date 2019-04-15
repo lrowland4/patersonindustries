@@ -10,8 +10,8 @@
     </div>    
    </div>
    
-   <div class="container text-contactpage lightpipe">
-     <div class="row">
+   <div class="container text-contactpage">
+     <div class="row lightpipe">
       <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
       </div> 
