@@ -11,7 +11,7 @@
     </div>    
    </div>
    
-   <div class="container text-contactpage">
+   <div class="container text-contactpage lightpipe">
      <div class="row">
       <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
@@ -19,7 +19,7 @@
       </div>
 
 
-      <div class="container four columns formms">
+      <div class="container four columns formms lightpipe">
       <?php
         if(have_posts()){
           while(have_posts()){
