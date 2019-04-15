@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 <div class="">
-  <div class="row top-contact">
+  <div class="row top-contact lightpipe">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-contact'); ?>
@@ -11,7 +11,7 @@
    </div>
    
    <div class="container text-contactpage">
-     <div class="row lightpipe">
+     <div class="row">
       <div class="seven columns">  
         <?php dynamic_sidebar('contact-text'); ?>
       </div> 
