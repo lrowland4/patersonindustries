@@ -481,6 +481,12 @@ img.alignnone {
   background-color: #bfc8c6;
 }
 
+h4 a {
+    color: #02573e;
+    font-size: 3rem;
+    font-family: 'Anton', sans-serif;
+    line-height: 1.2;
+}
 
 
 /*------------------------ RANDOM ------------------------*/
