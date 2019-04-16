@@ -652,6 +652,26 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 
 }
 
+
+/* CONTACT MEDIA Q */
+@media only screen and (max-width: 779px) {
+
+p {
+    font-size: 20px;
+}
+}
+
+
+/* CONTACT MEDIA Q */
+@media only screen and (max-width: 400px) {
+
+.container.four.columns.formms{
+    margin-left: 0%;
+}
+}
+
+
+
 @media screen and (max-width: 750px) {
 
 }
