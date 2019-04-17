@@ -569,6 +569,11 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     padding: 2%;
     margin-top: -56px;
 }
+
+.info-image h3{
+  color: #ffffff;
+  letter-spacing: 2px;
+}
 }
 
 /*------------------------ FOOTER ------------------------*/
