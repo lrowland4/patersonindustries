@@ -78,7 +78,7 @@
 	        </div>
 	 	</div>
 
-	    <div class="row">
+	    <div class="row cert-icons">
 	      <div class="four columns">
 	        <div class="home-page-1-certification four columns">
 	          <?php dynamic_sidebar('certification-page-1'); ?>
