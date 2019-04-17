@@ -96,7 +96,7 @@
 	      </div>
 	      <div class="four columns cert">
 	         <div class="home-page-4-certification four columns cert"">
-	          <?php dynamic_sidebar('certification-page-4'); ?>
+	          <a href="https://www.isnetworld.com" target="blank"><?php dynamic_sidebar('certification-page-4'); ?></a>
 	        </div>
 	      </div>
 	    </div>
