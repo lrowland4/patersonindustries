@@ -561,9 +561,13 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   padding-bottom: 37px;
 }
 
+.button.cert{
+  font-size: 22px;
+}
+
 .cta {
     padding: 2%;
-    margin-top: -63px;
+    margin-top: -51px;
 }
 }
 
