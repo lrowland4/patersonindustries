@@ -800,11 +800,11 @@ td {
 
 }
 
-/* Service MEDIA Q  iPad*/
+/* Service MEDIA Q  Phone*/
 @media only screen and (max-width: 375px) {
 
 .service-head {
-    margin-bottom: 297px;
+    margin-bottom: 295px;
 }
 }
 
