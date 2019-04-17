@@ -539,7 +539,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   text-align: center;
 }
 
-.row.cert-icons.four.columns{
+.four.columns.cert{
   width: 34.666667%;
   margin-left: 40px;
   margin-right: -151px;
