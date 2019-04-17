@@ -81,17 +81,17 @@
 	    <div class="row cert-icons">
 	      <div class="four columns cert">
 	        <div class="home-page-1-certification four columns cert">
-	          <?php dynamic_sidebar('certification-page-1'); ?>
+	          <a href="https://www.avetta.com/" target="blank"><?php dynamic_sidebar('certification-page-1'); ?></a>
 	        </div>
 	      </div>
 	      <div class="four columns cert">
 	        <div class="home-page-2-certification four columns cert">
-	          <?php dynamic_sidebar('certification-page-2'); ?>
+	          <a href="https://www.complyworks.com/en/home/" target="blank"><?php dynamic_sidebar('certification-page-2'); ?></a>
 	        </div>
 	      </div>
 	      <div class="four columns cert">
 	         <div class="home-page-3-certification four columns cert">
-	          <?php dynamic_sidebar('certification-page-3'); ?>
+	          <a href="http://www.energysafetycanada.com/cor/cor-overview.cfm" target="blank"><?php dynamic_sidebar('certification-page-3'); ?></a>
 	        </div>
 	      </div>
 	      <div class="four columns cert">
