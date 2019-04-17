@@ -652,6 +652,12 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 }
 
+@media screen and (max-width: 750px) {
+
+}
+
+/*------------------------ CONTACT MEDIA QUERIES ------------------------*/
+
   /* CONTACT MEDIA Q */
 @media only screen and (max-width: 1195px) {
 
@@ -707,8 +713,28 @@ p {
 }
 }
 
+/*------------------------ Service MEDIA QUERIES ------------------------*/
 
+/* Service MEDIA Q */
+@media only screen and (max-width: 1197px) {
 
-@media screen and (max-width: 750px) {
+.service-head {
+    margin-bottom: 306px;
 
 }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
