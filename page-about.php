@@ -7,9 +7,6 @@
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-about'); ?>
-        <div class="centered">
-          <h1><?php the_title(); ?></h1>
-        </div>
       </div>
     </div>
   </div>
