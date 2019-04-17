@@ -137,6 +137,50 @@
       'after_title'   =>  '</h3>'
     ));
 
+    // Certification  WIDGET AREA 1 on Home page
+    register_sidebar( array(
+      'name'          => ('Certification - Icon 1'),
+      'id'            => 'certification-page-1',
+      'description'   => 'Home page content - certification 1.',
+      'before_widget' => '<div class="home-page-1-certification">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
+    // Certification  WIDGET AREA 1 on Home page
+    register_sidebar( array(
+      'name'          => ('Certification - Icon 2'),
+      'id'            => 'certification-page-2',
+      'description'   => 'Home page content - certification 2.',
+      'before_widget' => '<div class="home-page-2-certification">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
+    // Certification  WIDGET AREA 1 on Home page
+    register_sidebar( array(
+      'name'          => ('Certification - Icon 3'),
+      'id'            => 'certification-page-3',
+      'description'   => 'Home page content - certification 3.',
+      'before_widget' => '<div class="home-page-3-certification">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
+    // Certification  WIDGET AREA 1 on Home page
+    register_sidebar( array(
+      'name'          => ('Certification - Icon 4'),
+      'id'            => 'certification-page-4',
+      'description'   => 'Home page content - certification 4.',
+      'before_widget' => '<div class="home-page-4-certification">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
     // ABOUT Page
     register_sidebar( array(
       'name'          => ('Content - About'),
