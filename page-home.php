@@ -71,6 +71,7 @@
 
 
  <!-- Certifications SECTION -->
+ 	<div class="certification-background">
  	<div class="row">
  		<div class="certification-title">
           <?php dynamic_sidebar('certification-title-page'); ?>
@@ -97,6 +98,7 @@
           <?php dynamic_sidebar('certification-page-4'); ?>
         </div>
       </div>
+    </div>
     </div>
 
 

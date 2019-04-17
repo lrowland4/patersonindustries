@@ -521,6 +521,11 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   visibility: hidden;
 }
 
+/*------------------------ HOME ------------------------*/
+
+.certification-background{
+  background-color: #ffffff;
+}
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
