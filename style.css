@@ -494,6 +494,18 @@ h4 a {
       letter-spacing: 3px;
 }
 
+h2 span {
+    letter-spacing: 3px;
+}
+
+p span{
+  margin-bottom: 73px;
+}
+
+.footer-services{
+  margin-top: 25px;
+}
+
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {

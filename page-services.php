@@ -28,4 +28,6 @@
   </div>
 </div>
 
+<div class="footer-services">
 <?php get_footer(); ?>
+</div>
