@@ -137,6 +137,17 @@
       'after_title'   =>  '</h3>'
     ));
 
+    // Info Sheet Image WIDGET on Home page
+    register_sidebar( array(
+      'name'          => ('Info Sheet - Image'),
+      'id'            => 'info-image',
+      'description'   => 'Home page info sheet image.',
+      'before_widget' => '<div class="info-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
     // Certification TITLE WIDGET on Home page
     register_sidebar( array(
       'name'          => ('Certification - Title'),

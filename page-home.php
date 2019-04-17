@@ -64,9 +64,13 @@
       </div>
     </div>
 <!-- CTA SECTION -->
+	<div class="row">
+		<div class="info-image">
+          <?php dynamic_sidebar('info-image'); ?>
+        </div>
+	</div>
     <div class="row lightpipe center cta">
       <a class="button" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Download Our Company Info Sheet</a>
-      <a class="button" href="tel:555-555-5555">Give Us A Call</a>
     </div>
 
 
