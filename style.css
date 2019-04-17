@@ -489,7 +489,7 @@ h4 a {
 }
 
 .service-head{
-      margin-bottom: 349px;
+      margin-bottom: 405px;
       color: #ffffff;
       letter-spacing: 3px;
 }
@@ -719,7 +719,7 @@ p {
 @media only screen and (max-width: 1197px) {
 
 .service-head {
-    margin-bottom: 306px;
+    margin-bottom: 348px;
 
 }
 }
@@ -728,7 +728,7 @@ p {
 @media only screen and (max-width: 1090px) {
 
 .service-head {
-    margin-bottom: 280px;
+    margin-bottom: 321px;
 
 }
 }
@@ -738,7 +738,7 @@ p {
 @media only screen and (max-width: 1080px) {
 
 .service-head {
-    margin-bottom: 280px;
+    margin-bottom: 318px;
 }
 
 h1.service-head{
@@ -770,7 +770,7 @@ td {
 @media only screen and (max-width: 1024px) {
 
 .service-head {
-    margin-bottom: 267px;
+    margin-bottom: 305px;
 }
 
 h1.service-head{
@@ -791,15 +791,22 @@ td {
 
 
 /* Service MEDIA Q  iPad*/
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 768px) {
 
 .service-head {
-    margin-bottom: 257px;
+    margin-bottom: 300px;
 }
 
 
 }
 
+/* Service MEDIA Q  iPad*/
+@media only screen and (max-width: 375px) {
+
+.service-head {
+    margin-bottom: 297px;
+}
+}
 
 
 
