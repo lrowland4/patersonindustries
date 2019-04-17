@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<div class="darkpipe">
+<div class="darkpipe service-page">
   <div class="row">
     <div class="twelve columns">
       <div class="hero">

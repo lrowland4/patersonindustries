@@ -724,10 +724,38 @@ p {
 }
 }
 
+/* Service MEDIA Q */
+@media only screen and (max-width: 1090px) {
+
+.service-head {
+    margin-bottom: 280px;
+
+}
+}
 
 
+/* Service MEDIA Q */
+@media only screen and (max-width: 1080px) {
 
+.service-head {
+    margin-bottom: 280px;
+}
 
+h1.service-head{
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 3px;      
+}
+
+h2 span {
+    letter-spacing: 3px;
+    font-family: 'Anton', sans-serif;
+}
+
+.servicepage p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+
+}
 
 
 
