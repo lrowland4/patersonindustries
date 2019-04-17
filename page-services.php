@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<div class="gray-color">
+<div class="darkpipe">
   <div class="row">
     <div class="twelve columns">
       <div class="hero">
