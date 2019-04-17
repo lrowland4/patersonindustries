@@ -28,6 +28,6 @@
   </div>
 </div>
 
-<div class="footer-services">
+<div class="darkpipe footer-services">
 <?php get_footer(); ?>
 </div>
