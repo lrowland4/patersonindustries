@@ -194,17 +194,14 @@ h3 {
 }
 
 h4 {
-  font-size: 35px;
+  font-size: 24px;
+  line-height: 1;
   color: #02573e;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   margin-bottom: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
-}
-
-h4 a {
-  color: #02573e;
 }
 
 p {
@@ -481,13 +478,6 @@ img.alignnone {
   background-color: #bfc8c6;
 }
 
-h4 a {
-    color: #02573e;
-    font-size: 2.5rem;
-    font-family: 'Anton', sans-serif;
-    line-height: 0;
-}
-
 .service-head{
       margin-bottom: 405px;
       color: #ffffff;
@@ -510,7 +500,12 @@ td {
 
 img.alignnone {
     margin-top: 50%;
-} 
+}
+
+
+h4 a {
+    color: #02573e;
+}
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {
@@ -648,7 +643,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   .small {
     font-size: 13px;
-  } 
+  }
 
 }
 
@@ -668,7 +663,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
   h4.widget-title-contact-form {
     font-size: 5rem;
-   } 
+   }
 
   iframe.mapp {
     margin-top: -148px;
@@ -678,7 +673,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 /* CONTACT MEDIA Q */
 @media only screen and (max-width: 1079px) {
-  
+
 
 .bottom-full {
     margin-top: -50%;
@@ -743,7 +738,7 @@ p {
 
 h1.service-head{
   font-family: 'Anton', sans-serif;
-  letter-spacing: 3px;      
+  letter-spacing: 3px;
 }
 
 h2 span {
@@ -775,7 +770,7 @@ td {
 
 h1.service-head{
   font-family: 'Anton', sans-serif;
-  letter-spacing: 5px;      
+  letter-spacing: 5px;
 }
 
 h2 span {
@@ -807,11 +802,3 @@ td {
     margin-bottom: 301px;
 }
 }
-
-
-
-
-
-
-
-
