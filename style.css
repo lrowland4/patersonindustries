@@ -541,9 +541,13 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .four.columns.cert{
   width: 33.666667%;
-  margin-left: 42px;
-  margin-right: -270px;
+  margin-left: 27px;
+  margin-right: -226px;
  }   
+
+ .row.cert-icons {
+    margin-left: 350px;
+}
 
 /*------------------------ FOOTER ------------------------*/
 
