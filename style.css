@@ -507,6 +507,10 @@ td {
     padding-bottom: 80px;
 }
 
+
+img.alignnone {
+    margin-top: 50%;
+} 
 /*------------------------ RANDOM ------------------------*/
 
 .nine.columns.single-content {
