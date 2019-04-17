@@ -48,7 +48,7 @@
   </div>
 
   <!-- VALUES -->
-  <div class="lightpipe">
+  <div class=" row lightpipe">
     <div class="values">
       <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/services-03.png" alt="value icon">
       <p class="center">VALUE 1</p>
