@@ -16,10 +16,10 @@
         if(have_posts()){
           while(have_posts()){
             the_post();?>
-            <?php the_content();
+            <div class="services-content"><?php the_content();
           }
         }
-      ?>
+      ?></div>
       </div>
       <div class="twelve columns">
         <?php dynamic_sidebar('cta-buttons-services'); ?>
