@@ -4,9 +4,6 @@
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-blog'); ?>
-        <div class="centered">
-          <h1>Company News</h1>
-        </div>
       </div>
     </div>
   </div>
