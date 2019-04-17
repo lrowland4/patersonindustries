@@ -551,6 +551,14 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     margin-left: 350px;
 }
 
+.info-image {
+  text-align: center;
+}
+
+.cert-green{
+  background-color: #02573e;
+}
+
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
