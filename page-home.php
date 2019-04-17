@@ -77,22 +77,22 @@
         </div>
  	</div>
     <div class="row">
-      <div class="one-fourth column">
-        <div class="home-page-1-certification>
+      <div class="four columns">
+        <div class="home-page-1-certification">
           <?php dynamic_sidebar('certification-page-1'); ?>
         </div>
       </div>
-      <div class="one-fourth column">
+      <div class="four columns">
         <div class="home-page-2-certification"">
           <?php dynamic_sidebar('certification-page-2'); ?>
         </div>
       </div>
-      <div class="one-fourth column">
+      <div class="four columns">
          <div class="home-page-3-certification"">
           <?php dynamic_sidebar('certification-page-3'); ?>
         </div>
       </div>
-      <div class="one-fourth column">
+      <div class="four columns">
          <div class="home-page-4-certification"">
           <?php dynamic_sidebar('certification-page-4'); ?>
         </div>
