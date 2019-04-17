@@ -71,7 +71,7 @@
 	        </div>
 		</div>
 	    <div class="row center cta">
-	      <a class="button-cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Download Our Company Info Sheet</a>
+	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Download Our Company Info Sheet</a>
 	    </div>
     </div>
 
