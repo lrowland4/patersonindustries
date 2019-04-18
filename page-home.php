@@ -63,22 +63,6 @@
         </div>
       </div>
     </div>
-<!-- CTA SECTION -->
-	<div class="cert-green">
-		<div class="row">
-			 <div class="info-text">
-			   <?php dynamic_sidebar('info-text'); ?></div>
-	    </div>
-		<div class="row">
-			<div class="info-image">
-	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download><?php dynamic_sidebar('info-image'); ?></a>
-	        </div>
-		</div>
-	    <div class="row center cta">
-	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Click to Download Our Company Info Sheet</a>
-	    </div>
-    </div>
-
 
  <!-- Certifications SECTION -->
  	<div class="certification-background">
@@ -111,7 +95,21 @@
 	      </div>
 	    </div>
     </div>
-
+<!-- CTA SECTION -->
+	<div class="cert-green">
+		<div class="row">
+			 <div class="info-text">
+			   <?php dynamic_sidebar('info-text'); ?></div>
+	    </div>
+		<div class="row">
+			<div class="info-image">
+	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download><?php dynamic_sidebar('info-image'); ?></a>
+	        </div>
+		</div>
+	    <div class="row center cta">
+	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Click to Download Our Company Info Sheet</a>
+	    </div>
+    </div>
 
 
   </div>
