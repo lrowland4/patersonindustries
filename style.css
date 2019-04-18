@@ -588,6 +588,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .row.icon-section {
     margin-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 78px;
 }
 
 .mission-text{
