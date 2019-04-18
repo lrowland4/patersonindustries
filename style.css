@@ -620,6 +620,11 @@ p.mission-text {
 .home-page-services-3 h3 {
     font-size: 3rem;
 }
+
+.quote-image-bg {
+  background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/green-pipes.png");
+}
+
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
