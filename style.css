@@ -576,6 +576,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   text-align: center;
 
 }
+
+.row.mission-section.darkhex {
+    padding-top: 70px;
+    padding-bottom: 150px;
 }
 
 /*------------------------ FOOTER ------------------------*/
