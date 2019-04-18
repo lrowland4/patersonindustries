@@ -41,7 +41,8 @@
 		<div class="row">
 			 <div class="home-page-image-quote-text">
 			   <?php dynamic_sidebar('home-page-image-quote-text'); ?></div>
-
+	    </div>
+		<div class="row">
 			 <div class="home-page-image-quote">
 			   <?php dynamic_sidebar('home-page-image-quote'); ?></div>
 	    </div>
