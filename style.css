@@ -542,8 +542,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
 
 .four.columns.cert{
-  width: 33.666667%;
-  margin-left: 27px;
+  width: 44.666667%;
+  margin-left: -20px;
   margin-right: -226px;
  }   
 
@@ -574,7 +574,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   color: #ffffff;
   letter-spacing: 2px;
   text-align: center;
-  
+
 }
 }
 
