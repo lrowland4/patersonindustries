@@ -38,7 +38,7 @@
   </div><!-- END SERVICES SECTION -->
 <!-- Image Quote SECTION -->
 	<div class="">
-		<div class="row">
+		<div class="row quote">
 			 <div class="home-page-image-quote-text">
 			   <?php dynamic_sidebar('home-page-image-quote-text'); ?></div>
 	    </div>
