@@ -67,7 +67,7 @@
       'description'   => 'Home page content - Image Quote.',
       'before_widget' => '<div class="home-page-image-quote">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="image-quote-text">',
       'after_title'   =>  '</h3>'
     ));
 
