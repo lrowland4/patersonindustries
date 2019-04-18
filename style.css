@@ -605,7 +605,11 @@ p.mission-text {
 }
 
 .top-section-service{
-  
+  margin-top: 50px;
+}
+
+.row.service-section{
+  margin-top: 25px;
 }
 /*------------------------ FOOTER ------------------------*/
 
