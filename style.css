@@ -192,6 +192,7 @@ h3 {
   margin-top: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 h4 {
@@ -579,7 +580,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .row.mission-section.darkhex {
     padding-top: 70px;
-    padding-bottom: 150px;
+    padding-bottom: 70px;
 }
 .home-page-text {
     margin-top: 59px;
