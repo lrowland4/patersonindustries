@@ -80,7 +80,6 @@
 
   <!-- ICON SECTION --> 
   <div class="row">
-  	<div class="one-third column center">
         <div class="home-page-text center">
           <?php dynamic_sidebar('home-page-text'); ?>
         </div>
