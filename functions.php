@@ -104,6 +104,17 @@
       'after_title'   =>  '</h4>'
     ));
 
+    //  Home page - Services Area Text
+    register_sidebar( array(
+      'name'          => ('Home - Services Text'),
+      'id'            => 'home-page-services-text',
+      'description'   => 'Home page content - Services Text.',
+      'before_widget' => '<div class="home-page-services-text">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
     //  Home page - Services Area 1
     register_sidebar( array(
       'name'          => ('Home - services 1'),

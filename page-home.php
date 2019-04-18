@@ -77,8 +77,15 @@
 	      </div>
 	    </div>
     </div> <!-- END Certifications SECTION -->
-    
-  <!-- ICON SECTION -->
+
+  <!-- ICON SECTION --> 
+  <div>
+  	<div class="one-third column center">
+        <div class="home-page-text center">
+          <?php dynamic_sidebar('home-page-text'); ?>
+        </div>
+  </div>
+
     <div class="row icon-section">
       <div class="one-third column iconss">
         <div class="home-page-1">
