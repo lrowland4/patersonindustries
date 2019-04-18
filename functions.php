@@ -60,6 +60,17 @@
       'after_title'   =>  '</h4>'
     ));
 
+    // Image Quote on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Image Quote'),
+      'id'            => 'home-page-image-quote',
+      'description'   => 'Home page content - Image Quote.',
+      'before_widget' => '<div class="home-page-image-quote">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
     // Icon Text WIDGET AREA on Home page
     register_sidebar( array(
       'name'          => ('Home - Icon Text'),

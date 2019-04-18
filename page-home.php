@@ -36,6 +36,14 @@
       </div>
     </div>
   </div><!-- END SERVICES SECTION -->
+<!-- Image Quote SECTION -->
+	<div class="">
+		<div class="row">
+			 <div class="home-page-image-quote">
+			   <?php dynamic_sidebar('home-page-image-quote'); ?></div>
+	    </div>
+	    </div>
+    </div><!-- END Image Quote SECTION -->  
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
