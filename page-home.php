@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div><!-- END SERVICES SECTION -->
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
@@ -44,27 +44,9 @@
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
     </div>
-  </div>
-  <!-- ICON SECTION -->
-    <div class="row icon-section">
-      <div class="one-third column iconss">
-        <div class="home-page-1">
-          <?php dynamic_sidebar('home-page-1'); ?>
-        </div>
-      </div>
-      <div class="one-third column iconss">
-         <div class="home-page-2">
-          <?php dynamic_sidebar('home-page-2'); ?>
-        </div>
-      </div>
-      <div class="one-third column  iconss">
-         <div class="home-page-3">
-          <?php dynamic_sidebar('home-page-3'); ?>
-        </div>
-      </div>
-    </div>
+  </div><!-- END MISSION STATEMENT SECTION -->
 
- <!-- Certifications SECTION -->
+   <!-- Certifications SECTION -->
  	<div class="certification-background">
 	 	<div class="row">
 	 		<div class="certification-title">
@@ -94,7 +76,28 @@
 	        </div>
 	      </div>
 	    </div>
-    </div>
+    </div> <!-- END Certifications SECTION -->
+    
+  <!-- ICON SECTION -->
+    <div class="row icon-section">
+      <div class="one-third column iconss">
+        <div class="home-page-1">
+          <?php dynamic_sidebar('home-page-1'); ?>
+        </div>
+      </div>
+      <div class="one-third column iconss">
+         <div class="home-page-2">
+          <?php dynamic_sidebar('home-page-2'); ?>
+        </div>
+      </div>
+      <div class="one-third column  iconss">
+         <div class="home-page-3">
+          <?php dynamic_sidebar('home-page-3'); ?>
+        </div>
+      </div>
+    </div> <!-- END ICON SECTION -->
+
+
 <!-- CTA SECTION -->
 	<div class="cert-green">
 		<div class="row">
@@ -109,8 +112,7 @@
 	    <div class="row center cta">
 	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Click to Download Our Company Info Sheet</a>
 	    </div>
-    </div>
-
+    </div><!-- END CTA SECTION -->
 
   </div>
 
