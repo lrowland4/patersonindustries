@@ -626,6 +626,16 @@ p.mission-text {
     text-align: center;
     color: #ffffff;
 }
+
+.home-page-1 h3 {
+    font-size: 3rem;
+}
+.home-page-2 h3 {
+    font-size: 3rem;
+}
+.home-page-3 h3 {
+    font-size: 3rem;
+}
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
