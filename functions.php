@@ -67,7 +67,18 @@
       'description'   => 'Home page content - Image Quote.',
       'before_widget' => '<div class="home-page-image-quote">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3 class="image-quote-text">',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
+
+    // Image Quote Text on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Image Quote Text'),
+      'id'            => 'home-page-image-quote-text',
+      'description'   => 'Home page content - Image Quote Text.',
+      'before_widget' => '<div class="home-page-image-quote-text">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
     ));
 
