@@ -611,6 +611,15 @@ p.mission-text {
 .row.service-section{
   margin-top: 25px;
 }
+.home-page-services-1 h3 {
+    font-size: 3rem;
+}
+.home-page-services-2 h3 {
+    font-size: 3rem;
+}
+.home-page-services-3 h3 {
+    font-size: 3rem;
+}
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
