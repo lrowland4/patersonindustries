@@ -573,6 +573,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 .info-text h3{
   color: #ffffff;
   letter-spacing: 2px;
+  text-align: center;
 }
 }
 
