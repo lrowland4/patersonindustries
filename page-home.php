@@ -44,16 +44,6 @@
 	    </div>
 	    </div>
     </div><!-- END Image Quote SECTION -->  
-<!-- MISSION STATEMENT SECTION -->
-  <div class="row mission-section darkhex">
-    <div class="twelve columns">
-      <h3 class="center">Our Mission</h3>
-      <div class="home-page-mission">
-        <?php dynamic_sidebar('home-page-mission'); ?>
-      </div>
-    </div>
-  </div><!-- END MISSION STATEMENT SECTION -->
-
    <!-- Certifications SECTION -->
  	<div class="certification-background">
 	 	<div class="row">
@@ -85,6 +75,16 @@
 	      </div>
 	    </div>
     </div> <!-- END Certifications SECTION -->
+
+<!-- MISSION STATEMENT SECTION -->
+  <div class="row mission-section darkhex">
+    <div class="twelve columns">
+      <h3 class="center">Our Mission</h3>
+      <div class="home-page-mission">
+        <?php dynamic_sidebar('home-page-mission'); ?>
+      </div>
+    </div>
+  </div><!-- END MISSION STATEMENT SECTION -->    
 
   <!-- ICON SECTION --> 
   <div class="row">
