@@ -15,7 +15,7 @@
 
 <!-- SERVICES SECTION -->
   <div class="lightpipe">
-    <div class="row">
+    <div class="row top-section-service">
       <h3 class="center">Our Services</h3>
     </div>
     <div class="row service-section">
