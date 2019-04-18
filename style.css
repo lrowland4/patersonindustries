@@ -543,7 +543,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .four.columns.cert{
   width: 44.666667%;
-  margin-left: -20px;
+  margin-left: -24px;
   margin-right: -226px;
  }   
 
@@ -587,6 +587,13 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .row.icon-section {
     margin-bottom: 30px;
+}
+
+.mission-text{
+    font-size: 24px;
+    text-align: center; 
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /*------------------------ FOOTER ------------------------*/
