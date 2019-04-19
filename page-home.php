@@ -108,7 +108,7 @@
 	<div class="cert-green">
 		<div class="row">
 			 <div class="info-text">
-			   <?php dynamic_sidebar('info-text'); ?></div>
+          <h3 class="center">Certifications</h3>
 	    </div>
 		<div class="row">
 			<div class="info-image">

@@ -71,17 +71,6 @@
       'after_title'   =>  '</h3>'
     ));
 
-    // Icon Text WIDGET AREA on Home page
-    register_sidebar( array(
-      'name'          => ('Home - Icon Text'),
-      'id'            => 'home-page-text',
-      'description'   => 'Home page content - Icon Text.',
-      'before_widget' => '<div class="home-page-text">',
-      'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
-      'after_title'   =>  '</h3>'
-    ));
-
     // Icon WIDGET AREA 2 on Home page
     register_sidebar( array(
       'name'          => ('Home - Icon 2.0'),
@@ -104,9 +93,9 @@
       'after_title'   =>  '</h3>'
     ));
 
-     // Background Mission Statement on Home page
+     // Mission Statement on Home and About
     register_sidebar( array(
-      'name'          => ('Home - Mission'),
+      'name'          => ('Home/About - Mission'),
       'id'            => 'home-page-mission',
       'description'   => 'Home page content - mission statement.',
       'before_widget' => '<div class="home-page-mission">',
@@ -151,7 +140,7 @@
 
     // Info Sheet Image WIDGET on Home page
     register_sidebar( array(
-      'name'          => ('Info Sheet - Image'),
+      'name'          => ('Home - Info Sheet - Image'),
       'id'            => 'info-image',
       'description'   => 'Home page info sheet image.',
       'before_widget' => '<div class="info-image">',
@@ -162,7 +151,7 @@
 
     // Info Sheet Text WIDGET on Home page
     register_sidebar( array(
-      'name'          => ('Info Sheet - Text'),
+      'name'          => ('Home - Info Sheet - Text'),
       'id'            => 'info-text',
       'description'   => 'Home page info sheet text.',
       'before_widget' => '<div class="info-text">',
@@ -171,20 +160,9 @@
       'after_title'   =>  '</h3>'
     ));
 
-    // Certification TITLE WIDGET on Home page
-    register_sidebar( array(
-      'name'          => ('Certification - Title'),
-      'id'            => 'certification-title-page',
-      'description'   => 'Home page content - certification title.',
-      'before_widget' => '<div class="certification-title">',
-      'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
-      'after_title'   =>  '</h3>'
-    ));
-
     // Certification  WIDGET AREA 1 on Home page
     register_sidebar( array(
-      'name'          => ('Certification - Icon 1'),
+      'name'          => ('Home - Certification - Icon 1'),
       'id'            => 'certification-page-1',
       'description'   => 'Home page content - certification 1.',
       'before_widget' => '<div class="home-page-1-certification">',
@@ -195,7 +173,7 @@
 
     // Certification  WIDGET AREA 2 on Home page
     register_sidebar( array(
-      'name'          => ('Certification - Icon 2'),
+      'name'          => ('Home - Certification - Icon 2'),
       'id'            => 'certification-page-2',
       'description'   => 'Home page content - certification 2.',
       'before_widget' => '<div class="home-page-2-certification">',
@@ -206,7 +184,7 @@
 
     // Certification  WIDGET AREA 3 on Home page
     register_sidebar( array(
-      'name'          => ('Certification - Icon 3'),
+      'name'          => ('Home - Certification - Icon 3'),
       'id'            => 'certification-page-3',
       'description'   => 'Home page content - certification 3.',
       'before_widget' => '<div class="home-page-3-certification">',
@@ -217,7 +195,7 @@
 
     // Certification  WIDGET AREA 4 on Home page
     register_sidebar( array(
-      'name'          => ('Certification - Icon 4'),
+      'name'          => ('Home - Certification - Icon 4'),
       'id'            => 'certification-page-4',
       'description'   => 'Home page content - certification 4.',
       'before_widget' => '<div class="home-page-4-certification">',
@@ -261,9 +239,9 @@
 
     // BOTTOM LEFT CONTACT in FOOTER widget
     register_sidebar( array(
-      'name'          => ('Contact Info - Footer'),
+      'name'          => ('Footer - Logo'),
       'id'            => 'bottom-left-contact',
-      'description'   => 'Bottom left column in the footer for contact info.',
+      'description'   => 'Logo in footer.',
       'before_widget' => '<div class="bottom-left">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
