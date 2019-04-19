@@ -84,6 +84,7 @@
   <!-- END MISSION STATEMENT SECTION -->
 
   <!-- ICON SECTION -->
+  <div class="promise-section"
     <div class="row">
       <h3 class="center">Our Promise</h3>
     </div>
@@ -99,6 +100,7 @@
         </div>
       </div>
     </div>
+  </div>
   <!-- END ICON SECTION -->
 
 

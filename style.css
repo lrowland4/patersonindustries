@@ -84,6 +84,10 @@ ul {
   padding-right: 45px;
 }
 
+.promise-section {
+  padding: 20px 0 20px 0;
+}
+
 .row.service-section {
     justify-content: center;
     padding: 0 2% 2% 2%;
