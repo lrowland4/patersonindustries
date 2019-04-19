@@ -102,7 +102,7 @@
       </div>
       <div class="one-third column iconss">
          <div class="home-page-2">
-          <a href="https://www.complyworks.com/en/home/" target="blank"><?php dynamic_sidebar('certification-page-2'); ?></a>
+           <?php dynamic_sidebar('home-page-2'); ?></a>
         </div>
       </div>
       <div class="one-third column  iconss">
