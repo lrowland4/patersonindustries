@@ -740,7 +740,7 @@ p.mission-text {
 
   .header {
     background-color: rgba(37, 46, 53, 0.5);
-    padding: 5px 25px;
+    padding: 5px 0 5px 0;
   }
 
   .header:hover {
