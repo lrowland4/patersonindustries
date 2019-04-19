@@ -314,6 +314,10 @@ a:hover {
   background-color: #eeeee8;
 }
 
+.white { /* white background */
+  background-color: white;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
@@ -525,9 +529,6 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 /*------------------------ HOME ------------------------*/
 
-.certification-background {
-  background-color: #ffffff;
-}
 
 .certification-title{
   text-align: center;

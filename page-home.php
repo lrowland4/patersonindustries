@@ -48,9 +48,9 @@
     </div>
   <!-- END Image Quote SECTION -->
 
-  <!-- Certifications SECTION -->
+  <!-- CERTIFICATIONS SECTION -->
 
- 	<div class="certification-background">
+ 	<div class="white">
 	 	<div class="row">
 	 		<div class="certification-title">
 	      <?php dynamic_sidebar('certification-title-page'); ?>
@@ -73,7 +73,7 @@
     </div>
   </div>
 
-<!-- Certifications SECTION -->
+<!-- END CERTIFICATIONS SECTION -->
 
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
