@@ -4,7 +4,7 @@
 
 <div class="home">
 <!-- HERO -->
-  <div class="row">
+  <div class="row hide">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-image'); ?>
@@ -39,7 +39,7 @@
   <!-- END SERVICES SECTION -->
 
   <!-- Image Quote SECTION -->
-	<div class="">
+	<div class="hide">
 		<div class="row">
 			 <div class="home-page-image-quote">
 			   <?php dynamic_sidebar('home-page-image-quote'); ?></div>
