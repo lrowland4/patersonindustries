@@ -107,9 +107,7 @@
 <!-- CTA SECTION -->
 	<div class="cert-green">
 		<div class="row">
-			 <div class="info-text">
-          <h3 class="center">Certifications</h3>
-	    </div>
+      <h3 class="center">Certifications</h3>
 		<div class="row">
 			<div class="info-image">
 	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download><?php dynamic_sidebar('info-image'); ?></a>
