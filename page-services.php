@@ -22,8 +22,5 @@
               }?>
             </div>
   </div>
-  <div class="twelve columns center">
-        <?php dynamic_sidebar('cta-buttons-services'); ?>
-  </div>
 
 <?php get_footer(); ?>
