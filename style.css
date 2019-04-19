@@ -525,7 +525,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 /*------------------------ HOME ------------------------*/
 
-.certification-background{
+.certification-background {
   background-color: #ffffff;
 }
 
@@ -534,22 +534,6 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   letter-spacing: 2px;
   padding-top: 30px;
   padding-bottom: 30px
-}
-
-.row.cert-icons {
-    margin-left: 350px;
-    padding-bottom: 88px;
-    background-color: #ffffff;
-  }
-
-.four.columns.cert{
-  width: 44.666667%;
-  margin-left: -24px;
-  margin-right: -226px;
- }   
-
- .row.cert-icons {
-    margin-left: 350px;
 }
 
 .info-image {
@@ -593,7 +577,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 .mission-text{
-    text-align: center; 
+    text-align: center;
     margin-left: 10%;
     margin-right: 10%;
 }
