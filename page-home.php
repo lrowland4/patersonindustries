@@ -50,7 +50,7 @@
 
   <!-- CERTIFICATIONS SECTION -->
 
- 	<div class="white">
+ 	<div class="whitebkgrnd">
 	 	<div class="row">
 	 		<div class="certification-title">
 	      <?php dynamic_sidebar('certification-title-page'); ?>
