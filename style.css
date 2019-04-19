@@ -673,6 +673,7 @@ p.mission-text {
 
   .icon { /* LOGO STYLING FOR HEADER */
     max-width: 175px;
+    padding-left: 20px;
   }
 
   p {
@@ -701,7 +702,6 @@ p.mission-text {
   header ul#menu-header-menu {
     text-align: right;
     padding-top: 10px;
-    padding-right: 30px;
   }
 
   header ul#menu-header-menu li {
