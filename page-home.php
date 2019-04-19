@@ -35,24 +35,29 @@
         </div>
       </div>
     </div>
-  </div><!-- END SERVICES SECTION -->
-<!-- Image Quote SECTION -->
+  </div>
+  <!-- END SERVICES SECTION -->
+
+  <!-- Image Quote SECTION -->
 	<div class="">
 		<div class="row">
 			 <div class="home-page-image-quote">
 			   <?php dynamic_sidebar('home-page-image-quote'); ?></div>
 	    </div>
 	    </div>
-    </div><!-- END Image Quote SECTION -->  
-   <!-- Certifications SECTION -->
+    </div>
+  <!-- END Image Quote SECTION -->
+
+  <!-- Certifications SECTION
+
  	<div class="certification-background">
 	 	<div class="row">
 	 		<div class="certification-title">
-	          <?php dynamic_sidebar('certification-title-page'); ?>
-	        </div>
+	      <?php dynamic_sidebar('certification-title-page'); ?>
+	    </div>
 	 	</div>
 
-	    <div class="row cert-icons">
+	  <div class="row cert-icons">
 	      <div class="four columns cert">
 	        <div class="home-page-1-certification four columns cert">
 	          <a href="https://www.avetta.com/" target="blank"><?php dynamic_sidebar('certification-page-1'); ?></a>
@@ -74,7 +79,32 @@
 	        </div>
 	      </div>
 	    </div>
-    </div> <!-- END Certifications SECTION -->
+    </div>
+    -->
+    <div class="row lightpipe">
+      <div class="three columns">
+        <div class="home-page-1">
+          <a href="https://www.avetta.com/" target="blank"><?php dynamic_sidebar('certification-page-1'); ?></a>
+        </div>
+      </div>
+      <div class="three columns">
+         <div class="home-page-2">
+          <?php dynamic_sidebar('certification-page-2'); ?>
+        </div>
+      </div>
+      <div class="three columns">
+        <div class="home-page-3">
+          <a href="http://www.energysafetycanada.com/cor/cor-overview.cfm" target="blank"><?php dynamic_sidebar('certification-page-3'); ?></a>
+        </div>
+      </div>
+      <div class="three columns">
+         <div class="home-page-2">
+           <a href="https://www.isnetworld.com" target="blank"><?php dynamic_sidebar('certification-page-4'); ?></a>
+        </div>
+      </div>
+    </div>
+
+<!-- Certifications SECTION -->
 
 <!-- MISSION STATEMENT SECTION -->
   <div class="row mission-section darkhex">
@@ -84,15 +114,10 @@
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
     </div>
-  </div><!-- END MISSION STATEMENT SECTION -->    
-
-  <!-- ICON SECTION --> 
-  <div class="row">
-        <div class="home-page-text center">
-          <?php dynamic_sidebar('home-page-text'); ?>
-        </div>
   </div>
+  <!-- END MISSION STATEMENT SECTION -->
 
+  <!-- ICON SECTION -->
     <div class="row icon-section">
       <div class="one-third column iconss">
         <div class="home-page-1">
@@ -101,7 +126,7 @@
       </div>
       <div class="one-third column iconss">
          <div class="home-page-2">
-          <?php dynamic_sidebar('home-page-2'); ?>
+          <a href="https://www.complyworks.com/en/home/" target="blank"><?php dynamic_sidebar('certification-page-2'); ?></a>
         </div>
       </div>
       <div class="one-third column  iconss">
@@ -109,7 +134,8 @@
           <?php dynamic_sidebar('home-page-3'); ?>
         </div>
       </div>
-    </div> <!-- END ICON SECTION -->
+    </div>
+  <!-- END ICON SECTION -->
 
 
 <!-- CTA SECTION -->
