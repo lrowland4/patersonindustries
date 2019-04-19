@@ -75,8 +75,6 @@ ul {
 
 /*------------------------ HomePage ------------------------*/
 .row.icon-section {
-    justify-content: center;
-    padding: 68px;
     text-align: center;
 }
 
@@ -572,7 +570,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 .row.icon-section {
-    padding-top: 50px 0 50px 0;
+    padding: 0 10% 20px 10%;
 }
 
 .mission-text{
