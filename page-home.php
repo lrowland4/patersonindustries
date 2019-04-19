@@ -71,6 +71,7 @@
           <a href="https://www.isnetworld.com" target="blank"><?php dynamic_sidebar('certification-page-4'); ?></a>
       </div>
     </div>
+  </div>
 
 <!-- Certifications SECTION -->
 
