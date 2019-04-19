@@ -40,11 +40,11 @@
 
   <!-- Image Quote SECTION -->
 		<div class="row">
-			 <div class="home-page-image-quote">
+			 <div class="twelve columns">
 			   <?php dynamic_sidebar('home-page-image-quote'); ?>
        </div>
 	  </div>
-    
+
   <!-- END Image Quote SECTION -->
 
   <!-- CERTIFICATIONS SECTION -->
