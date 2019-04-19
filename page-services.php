@@ -2,7 +2,6 @@
 
 <?php get_header(); ?>
 
-<div class="darkpipe service-page">
   <div class="row">
     <div class="twelve columns">
       <div class="hero">
@@ -11,23 +10,20 @@
           <h1 class="service-head"><?php the_title(); ?></h1>
         </div>
       </div>
-      <div class="container">
+    </div>
+  </div>
+  <div class="container">
       <?php
         if(have_posts()){
           while(have_posts()){
             the_post();?>
             <div class="services-content"><?php the_content();
-          }
-        }
-      ?></div>
-      </div>
-      <div class="twelve columns">
-        <?php dynamic_sidebar('cta-buttons-services'); ?>
-      </div>
-    </div>
+                }
+              }?>
+            </div>
   </div>
-</div>
-
-<div class="darkpipe footer-services">
-</div>
+  <div class="twelve columns center">
+        <?php dynamic_sidebar('cta-buttons-services'); ?>
+  </div>
+    
 <?php get_footer(); ?>
