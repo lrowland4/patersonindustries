@@ -91,10 +91,10 @@
     <div class="row icon-section">
       <div class="one-half column iconss">
          <div class="home-page-2">
-           <?php dynamic_sidebar('home-page-2'); ?></a>
+           <?php dynamic_sidebar('home-page-2'); ?>
         </div>
       </div>
-      <div class="one-half column  iconss">
+      <div class="one-half column iconss">
          <div class="home-page-3">
           <?php dynamic_sidebar('home-page-3'); ?>
         </div>
