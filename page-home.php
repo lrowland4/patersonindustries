@@ -51,9 +51,7 @@
 
  	<div class="whitebkgrd">
 	 	<div class="row">
-	 		<div class="certification-title">
 	      <?php dynamic_sidebar('certification-title-page'); ?>
-	    </div>
 	 	</div>
 
     <div class="row certification">
