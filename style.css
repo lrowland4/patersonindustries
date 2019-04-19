@@ -540,6 +540,14 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   padding-bottom: 0;
 }
 
+.cert-icon {
+  width: 15%;
+  padding: 0 5% 5% 5%;
+  text-align: center;
+  display: block;
+  float: left;
+}
+
 .info-image {
   text-align: center;
 }
