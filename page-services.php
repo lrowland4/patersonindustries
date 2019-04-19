@@ -12,12 +12,12 @@
       </div>
     </div>
   </div>
-  <div class="container">
+  <div class="darkpipe">
       <?php
         if(have_posts()){
           while(have_posts()){
             the_post();?>
-            <div class="services-content"><?php the_content();
+            <div class="container services-content"><?php the_content();
                 }
               }?>
             </div>
@@ -25,5 +25,5 @@
   <div class="twelve columns center">
         <?php dynamic_sidebar('cta-buttons-services'); ?>
   </div>
-    
+
 <?php get_footer(); ?>
