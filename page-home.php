@@ -86,7 +86,7 @@
   <!-- ICON SECTION -->
   <div class="promise-section">
     <div class="row">
-      <h3 class="info-text">Proudly Serving Canada Since 2014</h3>
+      <h3 class="center">Our Promise</h3>
     </div>
     <div class="row icon-section">
       <div class="one-half column iconss">
@@ -108,7 +108,7 @@
 	<div class="cert-green">
 		<div class="row">
 			 <div class="info-text">
-          <h3 class="center">Our Promise</h3>
+          <h3>Proudly Serving Canada Since 2014</h3>
 	    </div>
 		<div class="row">
 			<div class="info-image">
