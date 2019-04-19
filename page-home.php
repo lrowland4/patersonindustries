@@ -51,7 +51,7 @@
 
  	<div class="whitebkgrd">
 	 	<div class="row">
-	     <h3>Certifications</h3>
+	     <h3 class="center">Certifications</h3>
 	 	</div>
 
     <div class="row certification">
@@ -86,7 +86,7 @@
   <!-- ICON SECTION -->
   <div class="promise-section">
     <div class="row">
-      <h3 class="center">Our Promise</h3>
+      <h3 class="info-text">Proudly Serving Canada Since 2014</h3>
     </div>
     <div class="row icon-section">
       <div class="one-half column iconss">
