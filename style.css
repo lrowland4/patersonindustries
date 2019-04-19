@@ -534,7 +534,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   text-align: center;
   letter-spacing: 2px;
   padding-top: 30px;
-  padding-bottom: 30px
+  padding-bottom: 0;
 }
 
 .info-image {
