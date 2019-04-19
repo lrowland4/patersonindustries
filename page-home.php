@@ -58,16 +58,16 @@
 	 	</div>
 
     <div class="row certification">
-      <div class="three columns">
+      <div class="three columns center">
           <a href="https://www.avetta.com/" target="blank"><?php dynamic_sidebar('certification-page-1'); ?></a>
       </div>
-      <div class="three columns">
+      <div class="three columns center">
           <a href="https://www.complyworks.com/en/home/" target="blank"><?php dynamic_sidebar('certification-page-2'); ?></a>
       </div>
-      <div class="three columns">
+      <div class="three columns center">
           <a href="http://www.energysafetycanada.com/cor/cor-overview.cfm" target="blank"><?php dynamic_sidebar('certification-page-3'); ?></a>
       </div>
-      <div class="three columns">
+      <div class="three columns center">
           <a href="https://www.isnetworld.com" target="blank"><?php dynamic_sidebar('certification-page-4'); ?></a>
       </div>
     </div>
