@@ -625,6 +625,14 @@ h3.top-text {
     background-color: #ffffff;
     padding-top: 50px;
 }
+.promise-section {
+    padding: 50px 0 50px 0;
+}
+.lightgreen{
+  padding: 50px 0 50px 0;
+}
+
+
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
