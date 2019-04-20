@@ -87,13 +87,13 @@
     </div>
     <div class="row icon-section">
       <div class="one-third column iconss">
-        <div class="home-page-1">
-          <?php dynamic_sidebar('home-page-1'); ?>
+        <div class="home-page-2">
+          <?php dynamic_sidebar('home-page-2'); ?>
         </div>
       </div>
       <div class="one-third column iconss">
-         <div class="home-page-2">
-          <?php dynamic_sidebar('home-page-2'); ?>
+         <div class="home-page-1">
+          <?php dynamic_sidebar('home-page-1'); ?>
         </div>
       </div>
       <div class="one-third column  iconss">
