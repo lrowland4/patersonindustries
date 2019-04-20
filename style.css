@@ -338,10 +338,6 @@ ul.post-categories a {
     padding: 50px 0 50px 0;
 }
 
-.pad {
-  padding: 2%;
-}
-
 .about.container h3 {
     color: #02573e;
 }
@@ -788,6 +784,10 @@ h3.top-text {
   .mobile-c {
     margin: inherit;
     text-align: inherit;
+  }
+
+  .seven.columns.mobile-c.pad {
+    padding: 2%;
   }
 
   .copyright {
