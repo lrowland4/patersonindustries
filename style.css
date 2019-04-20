@@ -621,6 +621,10 @@ h3.top-text {
     color: #02573e;
 }
 
+.whitebkgrd {
+    background-color: #ffffff;
+    padding-top: 50px;
+}
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
