@@ -340,6 +340,12 @@ ul.post-categories a {
 .about.container h3 {
     color: #02573e;
 }
+
+img.image.wp-image-445.attachment-500x281.size-500x281 {
+    object-fit: cover;
+    height: auto;
+    width: auto;
+}
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
