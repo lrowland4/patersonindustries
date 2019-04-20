@@ -30,7 +30,7 @@
     <div class="five columns">
       <?php dynamic_sidebar('about-safety'); ?>
     </div>
-    <div class="seven columns mobile-c">
+    <div class="seven columns mobile-c pad">
       <h3>Our commitment to safety</h3>
       <p>We work hard to keep you safe. That’s why we’re certified across board to ensure safety and quality in everything that we do.</p>
       <a href="http://www.jessica-small.com/PatersonIndustries/category/paterson-industries-ltd/" class="button">Learn More</a>
@@ -72,7 +72,7 @@
     <div class="five columns">
       <?php dynamic_sidebar('about-community'); ?>
     </div>
-    <div class="seven columns mobile-c">
+    <div class="seven columns mobile-c pad">
       <h3>Our love for the community</h3>
       <p>There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
       <a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a>
