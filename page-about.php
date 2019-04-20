@@ -50,7 +50,7 @@
   <!-- VALUES -->
   <div class="lightpipe">
     <div class="row">
-      <h3>Core Values</h3>
+      <h3 class="center">Core Values</h3>
     </div>
     <div class="row">
       <div class="values">
