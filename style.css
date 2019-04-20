@@ -334,6 +334,7 @@ ul.post-categories a {
   width: 70%;
 }
 
+
 .team {
     padding: 50px 0 50px 0;
 }
@@ -350,7 +351,8 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
 }
 
 .seven.columns.mobile-c {
-    margin-top: 39px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /*------------------------ NEWS / BLOG ------------------------*/
@@ -784,10 +786,6 @@ h3.top-text {
   .mobile-c {
     margin: inherit;
     text-align: inherit;
-  }
-
-  .seven.columns.mobile-c.pad {
-    padding: 2%;
   }
 
   .copyright {
