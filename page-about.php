@@ -28,7 +28,7 @@
   <!-- SAFETY SECTION -->
   <div class="row lightgreen">
     <div class="five columns">
-      <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
+      <?php dynamic_sidebar('about-safety'); ?>
     </div>
     <div class="seven columns mobile-c">
       <h3>Our commitment to safety</h3>
@@ -70,7 +70,7 @@
   <!-- COMMUNITY SECTION -->
   <div class="row lightgreen">
     <div class="five columns">
-      <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
+      <?php dynamic_sidebar('about-community'); ?>
     </div>
     <div class="seven columns mobile-c">
       <h3>Our love for the community</h3>

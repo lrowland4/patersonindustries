@@ -5,6 +5,8 @@
   // Widget areas
   function widgets_area_init(){
 
+
+// ------------------ HERO images ----------------------- //
     // HERO image on Home page
     register_sidebar( array(
       'name'          => ('Hero Image - Home'),
@@ -59,6 +61,8 @@
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
     ));
+
+// ------------------ HOME PAGE ----------------------- //
 
     // Image Quote on Home page
     register_sidebar( array(
@@ -204,16 +208,31 @@
       'after_title'   =>  '</h3>'
     ));
 
-    // ABOUT Page
+// ------------------ ABOUT PAGE ----------------------- //
+
+    // ABOUT Page - Safety
     register_sidebar( array(
-      'name'          => ('Content - About'),
-      'id'            => 'about-page',
-      'description'   => 'About page content.',
-      'before_widget' => '<div class="about-page">',
+      'name'          => ('About - Safety Image'),
+      'id'            => 'about-safety',
+      'description'   => 'About page safety image.',
+      'before_widget' => '<div class="about-safety">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
     ));
+
+    // ABOUT Page - Community
+    register_sidebar( array(
+      'name'          => ('About - Community Image'),
+      'id'            => 'about-community',
+      'description'   => 'About page community image.',
+      'before_widget' => '<div class="about-community">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+// ------------------ CONTACT PAGE ----------------------- //
 
     // Contact page Text
     register_sidebar( array(
@@ -237,24 +256,14 @@
       'after_title'   =>  '</h4>'
     ));
 
-    // BOTTOM LEFT CONTACT in FOOTER widget
+// ------------------ FOOTER ----------------------- //
+
+    // FOOTER LOGO widget
     register_sidebar( array(
       'name'          => ('Footer - Logo'),
       'id'            => 'bottom-left-contact',
       'description'   => 'Logo in footer.',
       'before_widget' => '<div class="bottom-left">',
-      'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
-    ));
-
-
-    // CTA BUTTON on Services page
-    register_sidebar( array(
-      'name'          => ('Services CTA Buttons'),
-      'id'            => 'cta-buttons-services',
-      'description'   => 'Area for CTA buttons.',
-      'before_widget' => '<div class="cta-buttons-services">',
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
