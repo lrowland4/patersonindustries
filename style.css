@@ -618,25 +618,7 @@ p.mission-text {
   margin-top: 25px;
   margin-bottom: 50px;
 }
-.home-page-services-1 h3 {
-    font-size: 3rem;
-}
-.home-page-services-2 h3 {
-    font-size: 3rem;
-}
-.home-page-services-3 h3 {
-    font-size: 3rem;
-}
 
-.home-page-1 h3 {
-    font-size: 3rem;
-}
-.home-page-2 h3 {
-    font-size: 3rem;
-}
-.home-page-3 h3 {
-    font-size: 3rem;
-}
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
@@ -704,6 +686,30 @@ p.mission-text {
 
   h3 {
     font-family: 'Anton', sans-serif;
+  }
+
+  .home-page-services-1 h3 {
+      font-size: 3rem;
+  }
+
+  .home-page-services-2 h3 {
+      font-size: 3rem;
+  }
+
+  .home-page-services-3 h3 {
+      font-size: 3rem;
+  }
+
+  .home-page-1 h3 {
+      font-size: 3rem;
+  }
+
+  .home-page-2 h3 {
+      font-size: 3rem;
+  }
+
+  .home-page-3 h3 {
+      font-size: 3rem;
   }
 
   .mission-text {
