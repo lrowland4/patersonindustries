@@ -75,6 +75,16 @@
       'after_title'   =>  '</h3>'
     ));
 
+    // Icon WIDGET AREA 1 on Home page
+    register_sidebar( array(
+      'name'          => ('Home - Icon 1'),
+      'id'            => 'home-page-1',
+      'description'   => 'Home page content - Icon 1.',
+      'before_widget' => '<div class="home-page-1">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3>',
+      'after_title'   =>  '</h3>'
+    ));
     // Icon WIDGET AREA 2 on Home page
     register_sidebar( array(
       'name'          => ('Home - Icon 2.0'),
@@ -116,7 +126,7 @@
       'description'   => 'Home page content - Services 1.',
       'before_widget' => '<div class="home-page-services-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 
@@ -127,7 +137,7 @@
       'description'   => 'Home page content - Services 2.',
       'before_widget' => '<div class="home-page-services-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 
@@ -138,7 +148,7 @@
       'description'   => 'Home page content - Services 3.',
       'before_widget' => '<div class="home-page-services-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 

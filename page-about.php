@@ -26,7 +26,7 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row lightgreen">
+  <div class="row lightgreen-about">
     <div class="five columns">
       <?php dynamic_sidebar('about-safety'); ?>
     </div>
@@ -50,25 +50,25 @@
   <!-- VALUES -->
   <div class="row lightpipe">
     <div class="values">
-      <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="value icon">
+      <img class="v-icon  animated wobbleVertical duration1 eds-on-hover " src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="hard hat safety">
       <p class="center">SAFETY</p>
     </div>
     <div class="values">
-      <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy.png" alt="value icon">
+      <img class="v-icon  animated wobbleVertical duration1 eds-on-hover " src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy.png" alt="trust shield">
       <p class="center">TRUST</p>
     </div>
     <div class="values">
-      <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth.png" alt="value icon">
+      <img class="v-icon  animated wobbleVertical duration1 eds-on-hover " src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth.png" alt="growth chart">
       <p class="center">GROWTH</p>
     </div>
     <div class="values">
-      <img class="v-icon" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy-2.png" alt="value icon">
+      <img class="v-icon  animated wobbleVertical duration1 eds-on-hover " src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy-2.png" alt="team">
       <p class="center">TEAMWORK</p>
     </div>
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row lightgreen">
+  <div class="row lightgreen-about">
     <div class="five columns">
       <?php dynamic_sidebar('about-community'); ?>
     </div>

@@ -16,7 +16,7 @@
 <!-- SERVICES SECTION -->
   <div class="lightpipe">
     <div class="row top-section-service">
-      <h3 class="center">Our Services</h3>
+      <h3 class="center top-text">Our Services</h3>
     </div>
     <div class="row service-section">
       <div class="one-third column iconss">
@@ -86,17 +86,23 @@
       <h3 class="center">Our Promise</h3>
     </div>
     <div class="row icon-section">
-      <div class="one-half column iconss">
-         <div class="home-page-2">
-           <?php dynamic_sidebar('home-page-2'); ?>
+      <div class="one-third column iconss">
+        <div class="home-page-2">
+          <?php dynamic_sidebar('home-page-2'); ?>
         </div>
       </div>
-      <div class="one-half column iconss">
+      <div class="one-third column iconss">
+         <div class="home-page-1">
+          <?php dynamic_sidebar('home-page-1'); ?>
+        </div>
+      </div>
+      <div class="one-third column  iconss">
          <div class="home-page-3">
           <?php dynamic_sidebar('home-page-3'); ?>
         </div>
       </div>
     </div>
+  </div>
   </div>
   <!-- END ICON SECTION -->
 
@@ -109,11 +115,11 @@
 	    </div>
 		<div class="row">
 			<div class="info-image">
-	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download><?php dynamic_sidebar('info-image'); ?></a>
+	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/One-pager-Paterson.pdf" download><?php dynamic_sidebar('info-image'); ?></a>
 	        </div>
 		</div>
 	    <div class="row center cta">
-	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pipefitting-1.png" download>Click to Download Our Company Info Sheet</a>
+	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/One-pager-Paterson.pdf" download>Click to Download Our Company Info Sheet</a>
 	    </div>
     </div><!-- END CTA SECTION -->
 

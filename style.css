@@ -296,7 +296,7 @@ ul.post-categories a {
   background-color: #02573e;
 }
 
-.lightgreen { /* light green background */
+.lightgreen-about { /* light green background */
   background-color: #afc9c2;
 }
 
@@ -334,9 +334,19 @@ ul.post-categories a {
 }
 
 .team {
-  padding: 30px 0 30px 0;
+    padding: 50px 0 50px 0;
 }
 
+.about.container h3 {
+    color: #02573e;
+}
+
+img.image.wp-image-445.attachment-500x281.size-500x281 {
+    object-fit: cover;
+    height: auto;
+    width: auto;
+    padding: 0px
+}
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
@@ -612,6 +622,27 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   margin-top: 25px;
   margin-bottom: 50px;
 }
+
+h3.top-text {
+    color: #02573e;
+}
+
+.top-text {
+    color: #02573e;
+}
+
+.whitebkgrd {
+    background-color: #ffffff;
+    padding-top: 50px;
+}
+.promise-section {
+    padding: 50px 0 50px 0;
+}
+.lightgreen{
+  padding: 50px 0 50px 0;
+  background-color: #afc9c2;
+}
+
 
 /*------------------------ FOOTER ------------------------*/
 
