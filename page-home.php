@@ -50,7 +50,7 @@
 
  	<div class="whitebkgrd">
 	 	<div class="row">
-	     <h3 class="center">Our Certifications</h3>
+	     <h3 class="center top-text">Our Certifications</h3>
 	 	</div>
 
     <div class="row">

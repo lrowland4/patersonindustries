@@ -613,6 +613,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   margin-bottom: 50px;
 }
 
+h3.center.top-text {
+    color: #02573e;
+}
+
 /*------------------------ FOOTER ------------------------*/
 
 .footer ul#menu-footer-menu li {
