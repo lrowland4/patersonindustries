@@ -34,7 +34,7 @@
           while(have_posts()){
               the_post();?>
               <div class="twelve columns">
-                <h3><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h3>
+                <h4><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h4>
                 <p><?php the_time('F j, Y'); ?></p>
                 <p><?php the_excerpt(); ?></p>
               </div>
