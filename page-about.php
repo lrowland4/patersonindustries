@@ -68,7 +68,7 @@
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row lightgreen">
+  <div class="row lightgreen-about">
     <div class="five columns">
       <?php dynamic_sidebar('about-community'); ?>
     </div>
