@@ -296,7 +296,7 @@ ul.post-categories a {
   background-color: #02573e;
 }
 
-.lightgreen { /* light green background */
+.lightgreen-about { /* light green background */
   background-color: #afc9c2;
 }
 
@@ -345,6 +345,7 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
     object-fit: cover;
     height: auto;
     width: auto;
+    padding: 0px
 }
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
@@ -639,6 +640,7 @@ h3.top-text {
 }
 .lightgreen{
   padding: 50px 0 50px 0;
+  background-color: #afc9c2;
 }
 
 
