@@ -80,7 +80,7 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="cream center padding mobile-c">
+  <div class="cream center padding mobile-c container">
     <h3>Experts you can trust</h3>
     <p> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
   </div>
