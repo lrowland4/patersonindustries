@@ -344,6 +344,10 @@ input#s {
   margin-bottom: 0px;
 }
 
+.category {
+  color: #252e35;
+}
+
 /*------------------------ BUTTON STYLING ------------------------*/
 .button {
   background-color: #252e35;

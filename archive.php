@@ -2,6 +2,15 @@
 
 <?php get_header(); ?>
 
+<div class="lightpipe">
+  <div class="row">
+    <div class="twelve columns">
+      <div class="hero">
+        <?php dynamic_sidebar('hero-blog'); ?>
+      </div>
+    </div>
+  </div>
+
 <div class="container">
   <div class="row">
     <div class="twelve columns">

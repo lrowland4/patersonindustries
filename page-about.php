@@ -26,7 +26,7 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row green">
+  <div class="row lightgreen">
     <div class="five columns">
       <img class="safetyimg" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/about-committment.png" alt="safety">
     </div>
