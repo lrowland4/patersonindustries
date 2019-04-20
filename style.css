@@ -377,6 +377,10 @@ input#s {
   margin-bottom: 0px;
 }
 
+.post-featured {
+    height: 300px;
+}
+
 /*------------------------ BUTTON STYLING ------------------------*/
 .button {
   background-color: #252e35;
