@@ -20,17 +20,17 @@
     </div>
     <div class="row service-section">
       <div class="one-third column iconss">
-        <div class="home-page-services-1 top-text">
+        <div class="home-page-services-1">
           <?php dynamic_sidebar('home-page-services-1'); ?>
         </div>
       </div>
       <div class="one-third column iconss">
-          <div class="home-page-services-2 top-text">
+          <div class="home-page-services-2">
           <?php dynamic_sidebar('home-page-services-2'); ?>
         </div>
       </div>
       <div class="one-third column iconss">
-          <div class="home-page-services-3 top-text">
+          <div class="home-page-services-3">
           <?php dynamic_sidebar('home-page-services-3'); ?>
         </div>
       </div>

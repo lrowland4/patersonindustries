@@ -126,7 +126,7 @@
       'description'   => 'Home page content - Services 1.',
       'before_widget' => '<div class="home-page-services-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 
@@ -137,7 +137,7 @@
       'description'   => 'Home page content - Services 2.',
       'before_widget' => '<div class="home-page-services-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 
@@ -148,7 +148,7 @@
       'description'   => 'Home page content - Services 3.',
       'before_widget' => '<div class="home-page-services-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3>',
+      'before_title'  => '<h3 class="top-text">',
       'after_title'   =>  '</h3>'
     ));
 
