@@ -334,9 +334,12 @@ ul.post-categories a {
 }
 
 .team {
-  padding: 30px 0 30px 0;
+    padding: 50px 0 28px 0;
 }
 
+.about.container h2 {
+    color: #02573e;
+}
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
