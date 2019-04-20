@@ -333,6 +333,10 @@ ul.post-categories a {
   width: 70%;
 }
 
+.team {
+  padding: 10px 0 10px 0;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
