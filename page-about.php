@@ -40,7 +40,7 @@
   <!-- MISSION STATEMENT -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
-      <h3 class="center">Our Mission</h3>
+      <h3 class="center mission">Our Mission</h3>
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
@@ -80,13 +80,13 @@
   </div>
 
   <!-- BIOS SECTION -->
-  <div class="cream center padding mobile-c container">
-    <h3>Experts you can trust</h3>
-    <p> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+  <div class="whitebkgrd mobile-c container">
+    <h3 class="center">Experts you can trust</h3>
+    <p class="center"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
   </div>
 
   <!-- JOIN OUR TEAM SECTION -->
-  <div class="row green">
+  <div class="row green join">
     <div class="twelve columns center">
       <h3 class="white">Want to join our team?</h3>
       <a href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>

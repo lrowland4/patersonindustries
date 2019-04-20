@@ -108,6 +108,10 @@ h4.widget-title {
     font-size: 24px;
 }
 
+.mission {
+  color: #02573e;
+}
+
 
 .row.short-form{
   background-color: #02573e;
@@ -190,7 +194,7 @@ h2 {
 
 h3 {
   font-size: 50px;
-  color: #02573e;
+  color: #252e35;
   font-family: 'Roboto', sans-serif;
   margin-top: 5px;
   margin-bottom: 0;
@@ -274,7 +278,7 @@ ul.post-categories a {
   width: 100%;
 }
 
-/*------------------------ BACKGROUND IMAGES FOR PAGE SECTIONS ------------------------*/
+/*------------------------ BACKGROUND IMAGES/ COLORS FOR PAGE SECTIONS ------------------------*/
 
 .lightpipe {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/pw_maze_white.png");
@@ -286,27 +290,6 @@ ul.post-categories a {
 
 .darkhex {
   background-image: url("http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/03/dark-honeycomb.png");
-}
-
-/*------------------------ ABOUT PAGE ------------------------*/
-
-.about {
-  width: 70%;
-  margin: auto;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-.values {
-  width: 15%;
-  padding: 5%;
-  text-align: center;
-  display: block;
-  float: left;
-}
-
-.v-icon {
-  width: 70%;
 }
 
 .green { /* green background */
@@ -323,6 +306,31 @@ ul.post-categories a {
 
 .whitebkgrd { /* white background */
   background-color: #ffffff;
+}
+
+/*------------------------ ABOUT PAGE ------------------------*/
+
+.about {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.join {
+  padding: 10px 0 10px 0;
+}
+
+.values {
+  width: 15%;
+  padding: 5%;
+  text-align: center;
+  display: block;
+  float: left;
+}
+
+.v-icon {
+  width: 70%;
 }
 
 /*------------------------ NEWS / BLOG ------------------------*/

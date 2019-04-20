@@ -51,7 +51,7 @@
 
  	<div class="whitebkgrd">
 	 	<div class="row">
-	     <h3 class="center">Certifications</h3>
+	     <h3 class="center">Our Certifications</h3>
 	 	</div>
 
     <div class="row">
@@ -69,21 +69,19 @@
       </div>
     </div>
   </div>
-
 <!-- END CERTIFICATIONS SECTION -->
 
-<!-- MISSION STATEMENT SECTION -->
-  <div class="row mission-section darkhex">
-    <div class="twelve columns">
-      <h3 class="center">Our Mission</h3>
-      <div class="home-page-mission">
-        <?php dynamic_sidebar('home-page-mission'); ?>
-      </div>
+<!-- MISSION STATEMENT -->
+<div class="row mission-section darkhex">
+  <div class="twelve columns">
+    <h3 class="center mission">Our Mission</h3>
+    <div class="home-page-mission">
+      <?php dynamic_sidebar('home-page-mission'); ?>
     </div>
   </div>
-  <!-- END MISSION STATEMENT SECTION -->
+</div>
 
-  <!-- ICON SECTION -->
+<!-- ICON SECTION -->
   <div class="promise-section">
     <div class="row">
       <h3 class="center">Our Promise</h3>
@@ -105,7 +103,7 @@
 
 
 <!-- CTA SECTION -->
-	<div class="cert-green">
+	<div class="lightgreen">
 		<div class="row">
 			 <div class="info-text">
           <h3>Proudly Serving Canada Since 2014</h3>
