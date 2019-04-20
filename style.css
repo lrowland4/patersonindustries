@@ -235,6 +235,10 @@ a:hover {
   color: white;
 }
 
+.category a {
+  color: black;
+}
+
 .white {
   color: white;
 }
@@ -342,10 +346,6 @@ input#s {
 
 .widget-title {
   margin-bottom: 0px;
-}
-
-.post-category {
-  color: #252e35;
 }
 
 /*------------------------ BUTTON STYLING ------------------------*/
