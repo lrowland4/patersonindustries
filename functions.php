@@ -232,6 +232,28 @@
       'after_title'   =>  '</h4>'
     ));
 
+    // ABOUT Page - Left Column
+    register_sidebar( array(
+      'name'          => ('About - Left Column'),
+      'id'            => 'about-left-column',
+      'description'   => 'About page left column.',
+      'before_widget' => '<div class="about-left-column">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+    // ABOUT Page - Right Column
+    register_sidebar( array(
+      'name'          => ('About - Right Column'),
+      'id'            => 'about-right-column',
+      'description'   => 'About page right column.',
+      'before_widget' => '<div class="about-right-column">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
 // ------------------ CONTACT PAGE ----------------------- //
 
     // Contact page Text

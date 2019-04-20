@@ -82,14 +82,14 @@
   <!-- BIOS SECTION -->
   <div class="whitebkgrd mobile-c">
     <h3 class="center">Experts you can trust</h3>
-    <p class="center"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+    <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
 
       <div class="row">
         <div class="one-half column">
-          <?php dynamic_sidebar('home-page-2'); ?>
+          <?php dynamic_sidebar('about-left-column'); ?>
         </div>
         <div class="one-half column">
-          <?php dynamic_sidebar('home-page-3'); ?>
+          <?php dynamic_sidebar('about-right-column'); ?>
         </div>
       </div>
   </div>
