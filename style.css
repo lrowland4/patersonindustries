@@ -298,6 +298,7 @@ ul.post-categories a {
 
 .lightgreen-about { /* light green background */
   background-color: #afc9c2;
+  margin-bottom: -7px;
 }
 
 .cream { /* cream background */
@@ -347,6 +348,11 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
     width: auto;
     padding: 0px
 }
+
+.seven.columns.mobile-c {
+    margin-top: 39px;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
@@ -642,6 +648,7 @@ h3.top-text {
   padding: 50px 0 50px 0;
   background-color: #afc9c2;
 }
+
 
 
 /*------------------------ FOOTER ------------------------*/
