@@ -12,7 +12,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row lightpipe">
+  <div class="row lightpipe team">
       <div class="about container">
         <?php
             if(have_posts()){
