@@ -14,7 +14,7 @@
 <div class="container">
   <div class="row">
     <div class="twelve columns">
-      <h2><?php
+      <h2>Category: <?php
           if(is_category()){
             single_cat_title();
           }elseif(is_tag()){
