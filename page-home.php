@@ -38,10 +38,20 @@
   </div>
   <!-- END SERVICES SECTION -->
 
-  <!-- Image Quote SECTION -->
+  <!-- MISSION STATEMENT -->
+  <div class="row mission-section darkhex">
+    <div class="twelve columns">
+      <h3 class="center mission">Our Mission</h3>
+      <div class="home-page-mission">
+        <?php dynamic_sidebar('home-page-mission'); ?>
+      </div>
+    </div>
+  </div>
+
+  <!-- ADDITIONAL WIDGET SECTION -->
 		<div class="row">
 			 <div class="twelve columns">
-			   <?php dynamic_sidebar('home-page-image-quote'); ?>
+			   <?php dynamic_sidebar('home-page-add-widget'); ?>
        </div>
 	  </div>
 

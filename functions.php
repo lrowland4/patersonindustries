@@ -66,10 +66,10 @@
 
     // Image Quote on Home page
     register_sidebar( array(
-      'name'          => ('Home - Image Quote'),
-      'id'            => 'home-page-image-quote',
-      'description'   => 'Home page content - Image Quote.',
-      'before_widget' => '<div class="home-page-image-quote">',
+      'name'          => ('Home - Additional Widget'),
+      'id'            => 'home-page-add-widget',
+      'description'   => 'Home page content - Additional Widget',
+      'before_widget' => '<div class="home-page-add-widget">',
       'after_widget'  => '</div>',
       'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
