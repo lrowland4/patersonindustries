@@ -636,7 +636,15 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 h3.top-text {
     color: #02573e;
+
 }
+
+h3.top-text-about {
+    color: #252e35;
+    font-size: 3rem;
+
+}
+
 
 .top-text {
     color: #02573e;
