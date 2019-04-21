@@ -26,11 +26,11 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row lightgreen-about ">
-    <div class="five columns animated fadeInUp duration1 eds-on-scroll ">
+  <div class="row lightgreen-about  animated fadeInUp duration1 eds-on-scroll ">
+    <div class="five columns">
       <?php dynamic_sidebar('about-safety'); ?>
     </div>
-    <div class="seven columns mobile-c pad animated fadeInUp duration1 eds-on-scroll ">
+    <div class="seven columns mobile-c pad">
       <h3>Our commitment to safety</h3>
       <p>We work hard to keep you safe. That’s why we’re certified across board to ensure safety and quality in everything that we do.</p>
       <a href="http://www.jessica-small.com/PatersonIndustries/category/paterson-industries-ltd/" class="button">Learn More</a>
@@ -38,11 +38,11 @@
   </div>
 
 <!-- BIOS SECTION -->
-  <div class="whitebkgrd mobile-c team ">
-    <h3 class="center animated fadeInUp duration1 eds-on-scroll ">Experts you can trust</h3>
-    <p class="center container animated fadeInUp duration1 eds-on-scroll "> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+  <div class="whitebkgrd mobile-c team  animated fadeInUp duration1 eds-on-scroll ">
+    <h3 class="center">Experts you can trust</h3>
+    <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
 
-      <div class="row container team animated fadeInUp duration1 eds-on-scroll ">
+      <div class="row container team">
         <div class="one-half column center">
           <?php dynamic_sidebar('about-left-column'); ?>
         </div>
@@ -63,11 +63,11 @@
   </div>
 
   <!-- VALUES -->
-  <div class="lightpipe">
+  <div class="lightpipe  animated fadeInUp duration1 eds-on-scroll ">
     <div class="row about-value">
-      <h3 class="center animated fadeInUp duration1 eds-on-scroll ">Core Values</h3>
+      <h3 class="center ">Core Values</h3>
     </div>
-    <div class="row animated fadeInUp duration1 eds-on-scroll ">
+    <div class="row">
       <div class="values">
         <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="hard hat safety">
         <h3 class="center top-text-about">SAFETY</h3>
@@ -88,11 +88,11 @@
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row lightgreen-about right-align">
+  <div class="row lightgreen-about right-align  animated fadeInUp duration1 eds-on-scroll ">
     <div class="seven columns mobile-c pad">
-      <h3 class="animated fadeInUp duration1 eds-on-scroll ">Our love for the community</h3>
-      <p class="about-left animated fadeInUp duration1 eds-on-scroll ">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
-      <a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button animated fadeInUp duration1 eds-on-scroll ">Learn More</a>
+      <h3>Our love for the community</h3>
+      <p class="about-left">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
+      <a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a>
     </div>
     <div class="five columns">
       <?php dynamic_sidebar('about-community'); ?>
@@ -100,15 +100,15 @@
   </div>
 
   <!-- JOIN OUR TEAM SECTION -->
-  <div class="row green join">
+  <div class="row green join  animated fadeInUp duration1 eds-on-scroll ">
     <div class="twelve columns center">
-      <h3 class="white  animated fadeInUp duration1 eds-on-scroll ">Join our team</h3>
-      <a  class=" animated fadeInUp duration1 eds-on-scroll " href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>
+      <h3 class="white">Join our team</h3>
+      <a href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>
     </div>
   </div>
 
   <!-- Projects SECTION -->
-  <div class="row ">
+  <div class="row  animated fadeInUp duration1 eds-on-scroll ">
 
   <h3>Insert Projects Slider</h3>
 
