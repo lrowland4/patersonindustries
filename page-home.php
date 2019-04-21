@@ -73,7 +73,7 @@
 <!-- MISSION STATEMENT -->
 <div class="row mission-section darkhex">
   <div class="twelve columns">
-    <h3 class="center mission">Our Mission</h3>
+    <h3 class="center mission  animated fadeInUp duration1 eds-on-scroll ">Our Mission</h3>
     <div class="home-page-mission">
       <?php dynamic_sidebar('home-page-mission'); ?>
     </div>
