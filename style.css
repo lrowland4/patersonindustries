@@ -619,8 +619,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   padding: 100px 0 100px 0;
 }
 
-.container.post.single-post p {
-    line-height: 25px;
+.single-post p {
+    line-height: 27px;
     margin-bottom: 25px;
 }
 
