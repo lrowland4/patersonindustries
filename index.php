@@ -16,7 +16,7 @@
           the_post();?>
           <div class="one-half column posts">
             <h4><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
-            <p class="category"><?php the_category(); ?></p>
+            <div class="category"><?php the_category(); ?></div>
             <div class="post-featured"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(); ?></a></div>
           </div>
     <?php }
