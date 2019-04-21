@@ -82,9 +82,9 @@
 
 <!-- ICON SECTION -->
   <div class="promise-section">
-      <div class="row">
-        <h3 class="center">Our Promise</h3>
-      </div>
+    <div class="row">
+      <h3 class="center">Our Promise</h3>
+    </div>
     <div class="row icon-section">
       <div class="one-third column iconss">
           <div class="home-page-2">
@@ -103,8 +103,7 @@
       </div>
     </div>
   </div>
-
-  <!-- END ICON SECTION -->
+<!-- END ICON SECTION -->
 
 
 <!-- CTA SECTION -->
