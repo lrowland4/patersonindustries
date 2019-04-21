@@ -54,7 +54,13 @@
           <?php dynamic_sidebar('about-right-column'); ?>
         </div>
       </div>
-  </div>  
+  </div> 
+
+    <!-- Projects SECTION -->
+  <div class="row ">
+  <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
+
+  </div> 
 
   <!-- MISSION STATEMENT -->
   <div class="row mission-section darkhex">
@@ -109,12 +115,6 @@
       <h3 class="white">Join our team</h3>
       <a href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>
     </div>
-  </div>
-
-  <!-- Projects SECTION -->
-  <div class="row ">
-  <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
-
   </div>
 
 
