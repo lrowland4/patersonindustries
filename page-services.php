@@ -20,4 +20,10 @@
             </div>
   </div>
 
+  <!-- Projects SECTION -->
+  <div class="row ">
+  <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
+
+  </div> 
+
 <?php get_footer(); ?>
