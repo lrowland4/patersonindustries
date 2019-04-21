@@ -55,19 +55,19 @@
     <div class="row">
       <div class="values">
         <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="hard hat safety">
-        <p class="center">SAFETY</p>
+        <h3 class="center top-text">SAFETY</h3>
       </div>
       <div class="values">
         <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy.png" alt="trust shield">
-        <p class="center">TRUST</p>
+        <h3 class="center top-text">TRUST</h3>
       </div>
       <div class="values">
         <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth.png" alt="growth chart">
-        <p class="center">GROWTH</p>
+        <h3 class="center top-text">GROWTH</h3>
       </div>
       <div class="values">
         <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy-2.png" alt="team">
-        <p class="center">TEAMWORK</p>
+        <h3 class="center top-text">TEAMWORK</h3>
       </div>
     </div>
   </div>
