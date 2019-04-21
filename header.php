@@ -6,7 +6,7 @@
   <meta name="description" content="Paterson Industries Ltd. is a pipefitting construction company, headquartered in Dawson Creek, B.C.">
   <meta name="keywords" content="pipe, pipefitting, construction, gas, Dawson Creek, Paterson, Industries, Canada">
   <title><?php bloginfo('name'); ?></title>
-  <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
+  <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" />
   <link href="https://fonts.googleapis.com/css?family=Anton|Roboto:100,300,400,700" rel="stylesheet">
   <?php wp_head(); ?>
 </head>
