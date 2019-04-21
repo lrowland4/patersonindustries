@@ -361,6 +361,10 @@ h3.center.value-title {
     margin-bottom: 20px;
 }
 
+.row.about-value {
+    margin-top: 70px;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;

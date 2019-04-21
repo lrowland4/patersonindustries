@@ -49,7 +49,7 @@
 
   <!-- VALUES -->
   <div class="lightpipe">
-    <div class="row">
+    <div class="row about-value">
       <h3 class="center">Core Values</h3>
     </div>
     <div class="row">
