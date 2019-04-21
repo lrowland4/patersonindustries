@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <!-- HERO -->
-  <div class="row">
+  <div class="row preload">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-about'); ?>
@@ -12,7 +12,7 @@
   </div>
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
-  <div class="row lightpipe team">
+  <div class="row lightpipe team  animated fadeInUp duration1 eds-on-scroll ">
       <div class="about container">
         <?php
             if(have_posts()){
