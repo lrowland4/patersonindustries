@@ -266,11 +266,6 @@ ul.post-categories a {
   padding: 2%;
 }
 
-.centered-blog-image{
-  margin-left: 40%;
-  margin-right: 40%;
-}
-
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
   width: 50%;
@@ -624,9 +619,13 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   padding: 100px 0 100px 0;
 }
 
-.container.post.single-post p {
-    line-height: 25px;
+.single-post p {
+    line-height: 27px;
     margin-bottom: 25px;
+}
+.centered-blog-image{
+  margin-left: 40%;
+  margin-right: 40%;
 }
 
 
