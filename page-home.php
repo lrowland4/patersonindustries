@@ -115,7 +115,7 @@
 	    </div>
 		<div class="row">
 			<div class="info-image">
-	      <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/paterson-industries.png></a>
+	      <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/paterson-industries.png"></a>
 	    </div>
 		</div>
 	    <div class="row center cta">
