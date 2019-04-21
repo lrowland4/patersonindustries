@@ -39,8 +39,10 @@
 
 <!-- BIOS SECTION -->
   <div class="whitebkgrd mobile-c team">
-    <h3 class="center  animated fadeInUp duration1 eds-on-scroll ">Experts you can trust</h3>
-    <p class="center container  animated fadeInUp duration1 eds-on-scroll "> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+    <div class="animated fadeInUp duration1 eds-on-scrol">  
+      <h3 class="center">Experts you can trust</h3>
+      <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+    </div>
 
       <div class="row container team">
         <div class="one-half column center">
