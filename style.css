@@ -879,6 +879,10 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
 
+h4.widget-title-founder {
+    margin-top: 0px;
+  }
+
 }
 
 @media screen and (max-width: 750px) {
