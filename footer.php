@@ -16,6 +16,5 @@
     <p class="small"> &copy; 2019 Paterson Industries Ltd. All Rights Reserved.</p>
   </div>
   <?php wp_footer(); ?>
-</div>
 </body>
 </html>
