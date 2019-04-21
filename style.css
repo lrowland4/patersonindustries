@@ -312,7 +312,7 @@ ul.post-categories a {
 /*------------------------ ABOUT PAGE ------------------------*/
 
 .about {
-  width: 67%;
+  width: 70%;
   margin: auto;
   text-align: center;
   margin-bottom: 10px;
@@ -359,9 +359,7 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
       margin-bottom: 20px;
 }
 
-h3.center.value-title {
-    margin-bottom: 20px;
-}
+
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
