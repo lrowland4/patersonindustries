@@ -48,28 +48,26 @@
   </div>
 
   <!-- VALUES -->
-  <div class="values">
-    <div class="lightpipe">
-      <div class="row">
-        <h3 class="center value-title">Core Values</h3>
+  <div class="lightpipe">
+    <div class="row">
+      <h3 class="center">Core Values</h3>
+    </div>
+    <div class="row">
+      <div class="values">
+        <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="hard hat safety">
+        <h3 class="center top-text-about">SAFETY</h3>
       </div>
-      <div class="row">
-        <div class="values">
-          <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_safety.png" alt="hard hat safety">
-          <h3 class="center top-text-about">SAFETY</h3>
-        </div>
-        <div class="values">
-          <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy.png" alt="trust shield">
-          <h3 class="center top-text-about">TRUST</h3>
-        </div>
-        <div class="values">
-          <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth.png" alt="growth chart">
-          <h3 class="center top-text-about">GROWTH</h3>
-        </div>
-        <div class="values">
-          <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy-2.png" alt="team">
-          <h3 class="center top-text-about">TEAMWORK</h3>
-        </div>
+      <div class="values">
+        <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy.png" alt="trust shield">
+        <h3 class="center top-text-about">TRUST</h3>
+      </div>
+      <div class="values">
+        <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth.png" alt="growth chart">
+        <h3 class="center top-text-about">GROWTH</h3>
+      </div>
+      <div class="values">
+        <img class="v-icon  animated wobbleVertical duration1 eds-on-hover" src="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/icon_growth-copy-2.png" alt="team">
+        <h3 class="center top-text-about">TEAMWORK</h3>
       </div>
     </div>
   </div>
