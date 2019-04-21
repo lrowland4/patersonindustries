@@ -115,11 +115,11 @@
 	    </div>
 		<div class="row">
 			<div class="info-image">
-	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/One-pager-Paterson.pdf" download><?php dynamic_sidebar('info-image'); ?></a>
+	          <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/Glacier-Creative_One-pager-Paterson.pdf" download><?php dynamic_sidebar('info-image'); ?></a>
 	        </div>
 		</div>
 	    <div class="row center cta">
-	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/One-pager-Paterson.pdf" download>Click to Download Our Company Info Sheet</a>
+	      <a class="button cert" href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/Glacier-Creative_One-pager-Paterson.pdf" download>Click to Download Our Company Info Sheet</a>
 	    </div>
     </div><!-- END CTA SECTION -->
 
