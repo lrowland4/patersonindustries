@@ -13,7 +13,7 @@
 
   <!-- COMPANY HISTORY SECTION (WRITTEN IN WP)-->
   <div class="row lightpipe team">
-      <div class="about container">
+      <div class="about container  animated fadeInUp duration1 eds-on-scroll ">
         <?php
             if(have_posts()){
               while(have_posts()){
