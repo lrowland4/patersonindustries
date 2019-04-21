@@ -865,7 +865,7 @@ h3.center.top-text-about {
     font-size: 13px;
   }
 
-  .post-featured img {
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
 
@@ -911,6 +911,9 @@ div#wpcf7-f137-p27-o1.wpcf7 {
     margin-top: -6%;
     margin-left: 8%;
 }
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    height: auto;
+}
 
 }
 
@@ -921,6 +924,9 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 p {
     font-size: 20px;
 }
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    height: auto;
+}
 }
 
 
@@ -929,6 +935,9 @@ p {
 
 .container.four.columns.formms{
     margin-left: 0%;
+}
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    height: auto;
 }
 }
 
