@@ -114,7 +114,7 @@
   <!-- Projects SECTION -->
   <div class="row ">
 
-  <h3>Insert Projects Slider</h3>
+  [smartslider3 slider=6]
 
   </div>
 
