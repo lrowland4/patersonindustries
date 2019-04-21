@@ -4,7 +4,7 @@
 
 <div class="home">
 <!-- HERO -->
-  <div class="row">
+  <div class="row preload">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-image'); ?>
