@@ -432,6 +432,10 @@ input#s {
     height: 300px;
 }
 
+.category {
+    font-size: 35px;
+}
+
 /*------------------------ BUTTON STYLING ------------------------*/
 .button {
   background-color: #252e35;
@@ -793,7 +797,6 @@ h3.center.top-text-about {
     font-size: 24px;
   }
 
-
   .home-page-services-1 h3 {
       font-size: 3rem;
   }
@@ -877,10 +880,13 @@ h3.center.top-text-about {
     font-size: 13px;
   }
 
-img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
-    height: auto;
-}
+  img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+      height: auto;
+  }
 
+  .category {
+      font-size: 16px;
+  }
 
 }
 
