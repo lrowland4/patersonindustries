@@ -59,7 +59,7 @@
   <!-- MISSION STATEMENT -->
   <div class="row mission-section darkhex">
     <div class="twelve columns">
-      <h3 class="center mission">Our Mission</h3>
+      <h3 class="center mission  animated fadeInUp duration1 eds-on-scroll ">Our Mission</h3>
       <div class="home-page-mission">
         <?php dynamic_sidebar('home-page-mission'); ?>
       </div>
@@ -94,9 +94,9 @@
   <!-- COMMUNITY SECTION -->
   <div class="row lightgreen-about right-align">
     <div class="seven columns mobile-c pad">
-      <h3>Our love for the community</h3>
-      <p class="about-left">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
-      <a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a>
+      <h3 class="animated fadeInUp duration1 eds-on-scroll">Our love for the community</h3>
+      <p class="about-left animated fadeInUp duration1 eds-on-scroll">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
+      <div class=" animated fadeInUp duration1 eds-on-scroll "><a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a></div>
     </div>
     <div class="five columns">
       <?php dynamic_sidebar('about-community'); ?>
