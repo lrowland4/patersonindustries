@@ -384,6 +384,14 @@ h3.center.value-title {
     padding-top: 65px;
 }
 
+.eds-on-scroll.about-left-column.eds-scroll-visible.animated.fadeInUp.duration1 {
+    margin: 50px;
+}
+
+.eds-on-scroll.about-right-column.eds-scroll-visible.animated.fadeInUp.duration1 {
+    margin: 50px;
+}
+
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {

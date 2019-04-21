@@ -249,7 +249,7 @@
       'description'   => 'About page left column.',
       'before_widget' => '<div class="about-left-column">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
+      'before_title'  => '<h4 class="widget-title-founders">',
       'after_title'   =>  '</h4>'
     ));
 
@@ -260,7 +260,7 @@
       'description'   => 'About page right column.',
       'before_widget' => '<div class="about-right-column">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
+      'before_title'  => '<h4 class="widget-title-founder">',
       'after_title'   =>  '</h4>'
     ));
 
