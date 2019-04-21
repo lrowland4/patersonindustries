@@ -940,6 +940,10 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     margin-bottom: 25px;
 }
 
+.post {
+    padding: 10px 0 10px 0;
+}
+
 }
 
 
