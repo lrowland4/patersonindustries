@@ -865,6 +865,10 @@ h3.center.top-text-about {
     font-size: 13px;
   }
 
+  .post-featured img {
+    height: auto;
+}
+
 }
 
 @media screen and (max-width: 750px) {
