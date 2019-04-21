@@ -266,6 +266,10 @@ ul.post-categories a {
   padding: 2%;
 }
 
+.centered-blog {
+    margin-left: 50%;
+    margin-right: 50%;
+}
 /*------------------------ IMAGE STYLING ------------------------*/
 .icon { /* LOGO STYLING FOR HEADER */
   width: 50%;
