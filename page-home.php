@@ -113,6 +113,7 @@
 			 <div class="info-text">
           <h3>Proudly Serving Canada Since 2014</h3>
 	    </div>
+    </div>
 		<div class="row">
 			<div class="info-image">
 	      <a href="http://www.jessica-small.com/PatersonIndustries/wp-content/uploads/2019/04/Glacier-Creative_One-pager-Paterson.pdf" download><?php dynamic_sidebar('info-image'); ?></a>
