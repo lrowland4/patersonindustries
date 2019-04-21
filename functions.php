@@ -157,8 +157,8 @@
       'name'          => ('Home - Info Sheet - Image'),
       'id'            => 'info-image',
       'description'   => 'Home page info sheet image.',
-      'before_widget' => '<div class="info-image">',
-      'after_widget'  => '</div>',
+      'before_widget' => '',
+      'after_widget'  => '',
       'before_title'  => '<h3>',
       'after_title'   =>  '</h3>'
     ));
