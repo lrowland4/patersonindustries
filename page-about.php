@@ -41,6 +41,8 @@
   <div class="whitebkgrd mobile-c team"> 
     <div class="animated fadeInUp duration1 eds-on-scroll">
       <h3 class="center ">Experts you can trust</h3>
+    </div> 
+    <div class="animated fadeInUp duration1 eds-on-scroll"> 
       <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
      </div>
 
