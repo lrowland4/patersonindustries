@@ -107,6 +107,13 @@
     </div>
   </div>
 
+  <!-- Projects SECTION -->
+  <div class="row ">
+
+  <h3>Insert Projects Slider</h3>
+
+  </div>
+
 
   </div>
 
