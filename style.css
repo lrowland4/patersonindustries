@@ -616,7 +616,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 .post { /*adds padding to blog post */
-  adding: 100px 0 100px 0;
+  padding: 100px 0 100px 0;
 }
 
 /*------------------------ HOME ------------------------*/
