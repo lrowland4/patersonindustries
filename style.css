@@ -366,6 +366,15 @@ h3.center.value-title {
     margin-top: 70px;
 }
 
+.seven.columns.mobile-c.pad a {
+    margin-top: 20px;
+}
+
+.right-align{
+  text-align: right;
+}
+
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
