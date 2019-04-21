@@ -935,6 +935,10 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     padding-top: 50px;
 }
 
+.single-post p {
+    line-height: 44px;
+    margin-bottom: 25px;
+}
 
 }
 
