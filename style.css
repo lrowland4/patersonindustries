@@ -317,7 +317,7 @@ ul.post-categories a {
 }
 
 .join {
-  padding: 10px 0 10px 0;
+    padding: 25px 0 39px 0;
 }
 
 .values {
@@ -350,6 +350,7 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
 
 .seven.columns.mobile-c {
     padding: 60px;
+    padding-top: 77px;
 }
 
 .values{
@@ -377,6 +378,10 @@ h3.center.value-title {
 
 .about-left{
   margin-left: 34px;
+}
+
+.whitebkgrd.mobile-c.team {
+    padding-top: 65px;
 }
 
 
