@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <!-- HERO -->
-  <div class="row preload">
+  <div class="row">
     <div class="twelve columns">
       <div class="hero">
         <?php dynamic_sidebar('hero-about'); ?>
@@ -31,7 +31,7 @@
       <?php dynamic_sidebar('about-safety'); ?>
     </div>
     <div class="seven columns mobile-c pad">
-      <h3 class=" animated fadeInUp duration1 eds-on-scroll ">Our commitment to safety</h3>
+      <h3 class=" animated fadeInUp duration1 eds-on-scroll ">Our commitment to safety</h3> </div>
       <p class=" animated fadeInUp duration1 eds-on-scroll ">We work hard to keep you safe. That’s why we’re certified across board to ensure safety and quality in everything that we do.</p>
       <div class=" animated fadeInUp duration1 eds-on-scroll "><a href="http://www.jessica-small.com/PatersonIndustries/category/paterson-industries-ltd/" class="button">Learn More</a></div>
     </div>
