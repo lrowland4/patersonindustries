@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="container">
+<div class="container post">
   <?php
     if(have_posts()){
       while(have_posts()){

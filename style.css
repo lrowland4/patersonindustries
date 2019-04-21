@@ -615,6 +615,10 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   visibility: hidden;
 }
 
+.post { /*adds padding to blog post */
+  padding-top: 50px;
+}
+
 /*------------------------ HOME ------------------------*/
 
 
