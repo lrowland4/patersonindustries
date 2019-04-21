@@ -3,9 +3,7 @@ Theme Name: PI Custom Theme
 Theme URI:
 Author: Jessica Small
 Author URI:
-
 Description: This theme was designed for Paterson Industries Ltd. by Glacier Creative from the University of Florida.
-
 Version: 1.0
 License: Open
 Text Domain: PI Custom Theme
@@ -352,6 +350,15 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
 
 .seven.columns.mobile-c {
     padding: 40px;
+}
+
+.values{
+      margin-top: 70px;
+      margin-bottom: 20px;
+}
+
+h3.center.value-title {
+    margin-bottom: 20px;
 }
 
 /*------------------------ NEWS / BLOG ------------------------*/
