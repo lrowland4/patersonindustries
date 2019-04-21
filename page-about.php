@@ -38,7 +38,7 @@
   </div>
 
 <!-- BIOS SECTION -->
-  <div class="whitebkgrd mobile-c team"> 
+  <div class="whitebkgrd mobile-c team-founders"> 
     <div class="animated fadeInUp duration1 eds-on-scroll">
       <h3 class="center ">Experts you can trust</h3>
     </div> 
