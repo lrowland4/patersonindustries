@@ -373,7 +373,7 @@ h3.center.value-title {
 
 .right-align{
   text-align: right;
-      margin-right: -40px;
+  margin-right: -40px;
 }
 
 .about-left{
@@ -392,6 +392,13 @@ h3.center.value-title {
     margin: 50px;
 }
 
+h4.widget-title-founder {
+    font-size: 3rem;
+    font-family: Anton;
+    letter-spacing: 1px;
+    margin-top: -35px;
+    margin-bottom: 15px;
+}
 
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
