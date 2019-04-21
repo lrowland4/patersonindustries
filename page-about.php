@@ -113,8 +113,7 @@
 
   <!-- Projects SECTION -->
   <div class="row ">
-
-  [smartslider3 slider=6]
+  <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
 
   </div>
 
