@@ -879,9 +879,6 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
 
-h4.widget-title-founder {
-    margin-top: 0px;
-  }
 
 }
 
@@ -929,9 +926,8 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
 
- title-top-home{
-    font-family: 'Anton', sans-serif;
-    font-size: 6rem;
+  h4.widget-title-founder {
+    margin-top: 0px;
   }
 
 }
