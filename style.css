@@ -175,7 +175,7 @@ h4.widget-title {
 h1 {
   font-size: 75px;
   color: #eeeee8;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -183,7 +183,7 @@ h1 {
 h2 {
   font-size: 65px;
   color: #252e35;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Anton', sans-serif;
   margin-bottom: 0;
   margin-top: 0;
   line-height: 1;
@@ -193,7 +193,7 @@ h2 {
 h3 {
   font-size: 50px;
   color: #252e35;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Anton', sans-serif;
   margin-top: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -791,6 +791,7 @@ h3.center.top-text-about {
     font-family: 'Anton', sans-serif;
   }
 
+
   .home-page-services-1 h3 {
       font-size: 3rem;
   }
@@ -878,6 +879,7 @@ img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
 
+
 }
 
 @media screen and (max-width: 750px) {
@@ -923,6 +925,10 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
+
+  h4.widget-title-founder {
+    margin-top: 10px;
+  }
 
 }
 
