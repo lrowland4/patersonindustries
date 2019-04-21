@@ -32,7 +32,7 @@
     </div>
     <div class="seven columns mobile-c pad">
       <h3 class="animated fadeInUp duration1 eds-on-scroll">Our commitment to safety</h3>
-      <p class="animated fadeInUp duration1 eds-on-scroll">We work hard to keep you safe. That’s why we’re certified across board to ensure safety and quality in everything that we do.</p>
+      <p class="animated fadeInUp duration1 eds-on-scroll">We’re certified across the board to ensure safety and quality in everything that we do. We even created a proprietary mobile app to ensure our team performs at the highest safety standards.</p>
       <div class=" animated fadeInUp duration1 eds-on-scroll "><a href="http://www.jessica-small.com/PatersonIndustries/category/paterson-industries-ltd/" class="button">Learn More</a></div>
     </div>
   </div>
@@ -43,7 +43,7 @@
       <h3 class="center ">Experts you can trust</h3>
     </div>
     <div class="animated fadeInUp duration1 eds-on-scroll">
-      <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
+      <p class="center container"> Our experts are some of the most experienced in the industry. We have years of experience and training, so you can rest assured that we’re getting the job done right. </p>
      </div>
       <div class="row container team">
         <div class="one-half column center">
@@ -99,7 +99,7 @@
   <div class="row lightgreen-about right-align">
     <div class="seven columns mobile-c pad">
       <h3 class="animated fadeInUp duration1 eds-on-scroll">Our love for the community</h3>
-      <p class="about-left animated fadeInUp duration1 eds-on-scroll">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
+      <p class="about-left animated fadeInUp duration1 eds-on-scroll">We're not just a business, we're a family. Our team is proud to be a part of the Dawson Creek community. From sponsoring little league baseball teams to hands-on volunteering, we make giving back to our community is a priority.</p>
       <div class=" animated fadeInUp duration1 eds-on-scroll "><a href="http://www.jessica-small.com/PatersonIndustries/category/community/" class="button">Learn More</a></div>
     </div>
     <div class="five columns">
