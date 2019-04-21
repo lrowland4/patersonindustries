@@ -354,6 +354,15 @@ img.image.wp-image-445.attachment-500x281.size-500x281 {
     padding: 40px;
 }
 
+.values{
+      margin-top: 70px;
+      margin-bottom: 20px;
+}
+
+h3.center.value-title {
+    margin-bottom: 20px;
+}
+
 /*------------------------ NEWS / BLOG ------------------------*/
 .post-featured img {
   width: 100%;
