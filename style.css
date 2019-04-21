@@ -791,10 +791,6 @@ h3.center.top-text-about {
     font-family: 'Anton', sans-serif;
   }
 
-  title-top-home{
-    font-family: 'Anton', sans-serif;
-    font-size: 6rem;
-  }
 
   .home-page-services-1 h3 {
       font-size: 3rem;
@@ -928,6 +924,11 @@ div#wpcf7-f137-p27-o1.wpcf7 {
 img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
 }
+
+ title-top-home{
+    font-family: 'Anton', sans-serif;
+    font-size: 6rem;
+  }
 
 }
 
