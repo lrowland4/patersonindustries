@@ -45,7 +45,6 @@
     <div class="animated fadeInUp duration1 eds-on-scroll">
       <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
      </div>
-
       <div class="row container team">
         <div class="one-half column center">
           <?php dynamic_sidebar('about-left-column'); ?>
@@ -57,9 +56,8 @@
   </div>
 
     <!-- Projects SECTION -->
-  <div class="row ">
-  <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
-
+  <div class="row">
+    <?php echo do_shortcode(" [smartslider3 slider=6]"); ?>
   </div>
 
   <!-- MISSION STATEMENT -->
@@ -118,7 +116,4 @@
   </div>
 
 
-
-
 <?php get_footer(); ?>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
