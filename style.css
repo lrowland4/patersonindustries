@@ -192,6 +192,16 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
     margin-top: 10px;
 }
 
+input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
+    color: #afc9c2;
+    font-size: 1.5rem;
+}
+
+input.wpcf7-form-control.wpcf7-file {
+    font-size: 1.5rem;
+    color: #afc9c2;
+}
+
 /*------------------------ FONTS ------------------------*/
 
 h1 {
