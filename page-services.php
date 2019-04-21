@@ -26,4 +26,12 @@
 
   </div> 
 
+  <!-- JOIN OUR TEAM SECTION -->
+  <div class="row green join">
+    <div class="twelve columns center">
+      <h3 class="white">Join our team</h3>
+      <a href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>
+    </div>
+  </div>
+
 <?php get_footer(); ?>
