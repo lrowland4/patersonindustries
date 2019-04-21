@@ -617,13 +617,8 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 
 .post { /*adds padding to blog post */
   padding: 100px 0 100px 0;
-  width: 70%
 }
 
-.post p {
-    line-height: 27px;
-    margin-bottom: 25px;
-}
 
 
 /*------------------------ HOME ------------------------*/
