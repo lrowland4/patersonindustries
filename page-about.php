@@ -26,7 +26,7 @@
   </div>
 
   <!-- SAFETY SECTION -->
-  <div class="row lightgreen-about">
+  <div class="row lightgreen-about  animated fadeInUp duration1 eds-on-scroll ">
     <div class="five columns">
       <?php dynamic_sidebar('about-safety'); ?>
     </div>
@@ -38,7 +38,7 @@
   </div>
 
 <!-- BIOS SECTION -->
-  <div class="whitebkgrd mobile-c team">
+  <div class="whitebkgrd mobile-c team  animated fadeInUp duration1 eds-on-scroll ">
     <h3 class="center">Experts you can trust</h3>
     <p class="center container"> Our experts are some of the most experienced in the industry. We only hire the best of the best so you can feel reassured that we’re getting the job done right. </p>
 
@@ -63,9 +63,9 @@
   </div>
 
   <!-- VALUES -->
-  <div class="lightpipe">
+  <div class="lightpipe  animated fadeInUp duration1 eds-on-scroll ">
     <div class="row about-value">
-      <h3 class="center">Core Values</h3>
+      <h3 class="center ">Core Values</h3>
     </div>
     <div class="row">
       <div class="values">
@@ -88,7 +88,7 @@
   </div>
 
   <!-- COMMUNITY SECTION -->
-  <div class="row lightgreen-about right-align">
+  <div class="row lightgreen-about right-align  animated fadeInUp duration1 eds-on-scroll ">
     <div class="seven columns mobile-c pad">
       <h3>Our love for the community</h3>
       <p class="about-left">There’s nothing we love more than to show our community how much we care for it. From sponsoring little league baseball teams to volunteering, Paterson Industries Ltd. wants to be involved and make a difference.</p>
@@ -100,7 +100,7 @@
   </div>
 
   <!-- JOIN OUR TEAM SECTION -->
-  <div class="row green join">
+  <div class="row green join  animated fadeInUp duration1 eds-on-scroll ">
     <div class="twelve columns center">
       <h3 class="white">Join our team</h3>
       <a href="http://www.jessica-small.com/PatersonIndustries/paterson-industries-ltd/careers/" class="button">Careers at Paterson Industries Ltd.</a>
@@ -108,7 +108,7 @@
   </div>
 
   <!-- Projects SECTION -->
-  <div class="row ">
+  <div class="row  animated fadeInUp duration1 eds-on-scroll ">
 
   <h3>Insert Projects Slider</h3>
 
