@@ -175,7 +175,7 @@ h4.widget-title {
 div#wpcf7-f676-p472-o1 {
     background-color: #02573e;
     padding: 50px;
-} 
+}
 
 span.wpcf7-list-item-label{
   color: #afc9c2;
@@ -207,6 +207,7 @@ h1 {
   font-size: 75px;
   color: #eeeee8;
   font-family: 'Anton', sans-serif;
+  font-weight: 400;
   margin-bottom: 0;
   text-transform: uppercase;
 }
@@ -215,6 +216,7 @@ h2 {
   font-size: 65px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
+  font-weight: 400;
   margin-bottom: 0;
   margin-top: 0;
   line-height: 1;
@@ -225,6 +227,7 @@ h3 {
   font-size: 50px;
   color: #252e35;
   font-family: 'Anton', sans-serif;
+  font-weight: 400;
   margin-top: 5px;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -812,15 +815,18 @@ h3.center.top-text-about {
   h1 {
     font-family: 'Anton', sans-serif;
     line-height: 1.2;
+    font-weight: 700;
   }
 
   h2 {
     line-height: 1.6;
     font-family: 'Anton', sans-serif;
+    font-weight: 700;
   }
 
   h3 {
     font-family: 'Anton', sans-serif;
+    font-weight: 700;
   }
 
 
